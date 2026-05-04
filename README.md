@@ -1,6 +1,6 @@
-# Awesome List for ChatGPT Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ChatGPT Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A comprehensive directory of every app in OpenAI's official [ChatGPT Apps Directory](https://chatgpt.com/apps) — verified Apps SDK / MCP integrations, organized by category with descriptions and use cases.
+> Third-party integrations that run inside ChatGPT via OpenAI's Apps SDK.
 
 **Last updated:** May 4, 2026 | **Total apps:** 330 | **Categories:** 43
 
