@@ -4,9 +4,9 @@
 
 **Last updated:** May 4, 2026 | **Total apps:** 330 | **Categories:** 43
 
-ChatGPT apps are verified integrations built on OpenAI's [Apps SDK](https://platform.openai.com/docs/apps-sdk) — an MCP-based protocol that lets developers extend ChatGPT with real-time access to external tools, data, and services. Apps work in chat as inline tools with custom UI, with discovery surfaced in [chatgpt.com/apps](https://chatgpt.com/apps).
+ChatGPT apps are verified integrations built on OpenAI's [Apps SDK](https://platform.openai.com/docs/apps-sdk) — an MCP-based protocol that lets developers extend ChatGPT with real-time access to external tools, data, and services. Apps work in chat as inline tools with custom UI, with discovery surfaced in chatgpt.com/apps.
 
-For more information, see the [Apps SDK docs](https://platform.openai.com/docs/apps-sdk), [Submission Guidelines](https://platform.openai.com/docs/apps-sdk/submit), and [MCP Protocol Specification](https://modelcontextprotocol.io).
+For more information, see the Apps SDK docs, [Submission Guidelines](https://platform.openai.com/docs/apps-sdk/submit), and [MCP Protocol Specification](https://modelcontextprotocol.io).
 
 This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
@@ -59,18 +59,19 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Video](#video)
 - [Voice and Speech](#voice-and-speech)
 - [Weather](#weather)
+- [Related](#related)
 
 ---
 
 ## AI and ML
 
-- [Apixel](https://chatgpt.com/apps) - AI image generation. *Use case: Generating product images, marketing assets, and creative visuals from prompts.*
+- [Apixel](https://chatgpt.com/apps/apixel) - AI image generation. *Use case: Generating product images, marketing assets, and creative visuals from prompts.*
 - [Botpress](https://botpress.com) - Production-ready AI agents. *Use case: Building and deploying conversational AI agents for customer-facing channels.*
 - [Hugging Face](https://huggingface.co) - Inspect models, datasets, Spaces, and research. *Use case: Model exploration, running inference on hosted models, discovering pretrained models for ML workflows.*
 - [Krikey AI Animation](https://krikey.ai) - Animate music videos. *Use case: Generating AI-animated characters and music videos from text or audio.*
-- [MangaBoom](https://chatgpt.com/apps) - Turn text and chat into comics. *Use case: Generating manga-style comic panels from a prompt or transcript.*
+- [MangaBoom](https://chatgpt.com/apps/mangaboom) - Turn text and chat into comics. *Use case: Generating manga-style comic panels from a prompt or transcript.*
 - [Manus](https://manus.im) - Create slides, websites, video. *Use case: Multi-modal generation across slides, sites, and video from a single brief.*
-- [Quicknode](https://quicknode.com) - Quicknode for OpenAI Builders. *Use case: Web3 and blockchain RPC infrastructure for AI builders integrating chain data.*
+- [Quicknode](https://quicknode.com) - Web3 RPC infrastructure for OpenAI builders. *Use case: Web3 and Blockchain RPC infrastructure for AI builders integrating chain data.*
 
 
 ## Analytics and Data
@@ -125,7 +126,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Cloud and Infrastructure
 
-- [Neon Postgres](https://neon.com) - Manage Neon Postgres databases. *Use case: Serverless Postgres branching, schema management.*
+- [Neon PostgreSQL](https://neon.com) - Manage Neon PostgreSQL databases. *Use case: Serverless PostgreSQL branching, schema management.*
 - [Netlify](https://www.netlify.com) - Build and deploy on Netlify. *Use case: Static site deployment, serverless functions, edge config.*
 - [Supabase](https://supabase.com) - Manage and query databases. *Use case: Postgres-backed backend, auth, real-time subscriptions, file storage.*
 - [Vercel](https://vercel.com) - Search docs and deploy apps. *Use case: Next.js deployment, serverless functions, deployment analytics.*
@@ -165,7 +166,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [HighLevel](https://www.gohighlevel.com) - Interact with your CRM business data. *Use case: Agency-focused CRM, marketing automation.*
 - [HubSpot](https://www.hubspot.com) - Insights to action in HubSpot. *Use case: CRM, marketing, and sales workflow automation.*
 - [Lusha](https://www.lusha.com) - Verified B2B data and signals. *Use case: B2B contact and intent data for prospecting.*
-- [Streak](https://www.streak.com) - Streak CRM for Gmail. *Use case: Inbox-native CRM and pipeline management.*
+- [Streak](https://www.streak.com) - CRM that lives inside Gmail. *Use case: Inbox-native CRM and pipeline management.*
 - [VibeProspecting](https://www.vibeprospecting.ai) - Find, enrich, and win leads. *Use case: AI-driven prospect discovery and enrichment.*
 - [ZoomInfo](https://www.zoominfo.com) - B2B data and GTM intelligence. *Use case: B2B contact and company data for go-to-market teams.*
 
@@ -213,7 +214,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Education and Learning
 
-- [Ace Knowledge Graph](https://chatgpt.com/apps) - Turn docs and topics to graphs. *Use case: Building knowledge graphs from study material.*
+- [Ace Knowledge Graph](https://chatgpt.com/apps/ace-knowledge-graph) - Turn docs and topics to graphs. *Use case: Building knowledge graphs from study material.*
 - [Ace Quiz Maker](https://acequiz.ai) - Turn PDFs and notes to quizzes. *Use case: Auto-generating practice quizzes from notes.*
 - [ApplyBoard](https://www.applyboard.com) - Find educational programs. *Use case: International student program discovery and application.*
 - [Assessment Generator](https://www.kira-learning.com/tools/assessment-generator) - Create quizzes and assessments. *Use case: Building educational assessments from a topic or upload.*
@@ -375,14 +376,14 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Granola](https://www.granola.ai) - Add your meeting context. *Use case: AI meeting notes that augment your manual notes.*
 - [Mem](https://get.mem.ai) - Save and search notes and meetings. *Use case: AI-organized notes and meeting transcript search.*
 - [Notion](https://www.notion.so) - Create docs, tasks, databases. *Use case: Notes, docs, databases, and team wikis.*
-- [Outliner](https://chatgpt.com/apps) - Create and edit outlines. *Use case: Outline-first writing and structuring.*
+- [Outliner](https://chatgpt.com/apps/outliner) - Create and edit outlines. *Use case: Outline-first writing and structuring.*
 - [Readwise](https://readwise.io) - Save, read, search, and learn. *Use case: Highlights aggregation, spaced repetition, reader app.*
 - [Sider Recorder and Transcriber](https://sider.ai/meeting-recorder) - Record, transcribe, summarize. *Use case: Meeting recording, transcription, and summarization.*
 
 
 ## Presentations
 
-- [Awesome Slides](https://chatgpt.com/apps) - Slides with video and voiceover. *Use case: Generating presentations with embedded video and AI voiceover.*
+- [Awesome Slides](https://chatgpt.com/apps/awesome-slides) - Slides with video and voiceover. *Use case: Generating presentations with embedded video and AI voiceover.*
 - [Beautiful.ai](https://www.beautiful.ai) - Turn ideas into presentations. *Use case: AI-generated and template-driven presentations.*
 - [Gamma](https://gamma.app) - Create presentations and docs. *Use case: AI-generated decks, docs, and webpages.*
 - [Genspark AI Slides](https://www.genspark.ai) - Professional presentations. *Use case: AI-generated professional decks.*
@@ -462,7 +463,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 - [Bible](https://www.youversion.com/the-bible-app/) - Find and read Bible verses. *Use case: Verse lookup and reading plans.*
 - [Insight Timer](https://insighttimer.com) - Meditation and sleep library. *Use case: Guided meditations and sleep stories.*
-- [Tarot](https://chatgpt.com/apps/tarot/asdk_app_6943a2c078b0819188de39e4fe168d9b) - Tarot reading and divination. *Use case: Tarot reading experiences.*
+- [Tarot](https://chatgpt.com/apps/tarot/asdk_app_6943a2c078b0819188de39e4fe168d9b) - Card reading and divination. *Use case: Tarot reading experiences.*
 
 
 ## Sports and Outdoors
@@ -562,4 +563,14 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 ## Weather
 
 - [AccuWeather®](https://www.accuweather.com) - Hyper-local forecasts and alerts. *Use case: Hyper-local weather forecasts and severe weather alerts.*
+
+---
+
+## Related
+
+- [awesome-claude-connectors](https://github.com/rdmgator12/awesome-claude-connectors) - Anthropic's official Claude connectors directory.
+- [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - Comprehensive list of Model Context Protocol servers.
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - LLM apps with AI agents and RAG.
+- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) - Curated list of ChatGPT-adjacent tools, prompts, and resources.
+- [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - Modern generative AI projects and services.
 
