@@ -12,6 +12,13 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 > This is an independent, community-maintained list. Not affiliated with, endorsed by, or sponsored by OpenAI. "ChatGPT" and related marks are the property of OpenAI. Each app is the property of its respective owner.
 
+> [!TIP]
+> ### App of the Week — May 4, 2026
+>
+> **[Hugging Face](https://huggingface.co/models)** · *AI and ML*
+>
+> The single most useful app for anyone doing actual ML work in chat. Inspect models, datasets, and Spaces; pull paper-linked benchmarks and architecture cards without leaving the conversation; trigger inference on hosted models. Most ChatGPT apps wrap a single SaaS product — Hugging Face wraps the entire open-model ecosystem, which makes it disproportionately valuable for technical workflows. Pairs naturally with Replit (run experiments) and SciSpace (read the underlying papers). For builders evaluating fine-tunes, comparing model sizes, or tracking what just dropped on the Hub, this is the connector that meaningfully changes what you can do without tab-switching.
+
 ---
 
 ## Contents
