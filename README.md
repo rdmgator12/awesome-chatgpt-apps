@@ -2,7 +2,7 @@
 
 > Third-party integrations that run inside ChatGPT via OpenAI's Apps SDK.
 
-**Last updated:** May 9, 2026 | **Total apps:** 789 | **Connectors:** 20 | **Categories:** 44
+**Last updated:** May 9, 2026 | **Total apps:** 784 | **Connectors:** 20 | **Categories:** 44
 
 ChatGPT apps are verified integrations built on OpenAI's [Apps SDK](https://platform.openai.com/docs/apps-sdk) — an MCP-based protocol that lets developers extend ChatGPT with real-time access to external tools, data, and services. Apps work in chat as inline tools with custom UI, with discovery surfaced in chatgpt.com/apps.
 
