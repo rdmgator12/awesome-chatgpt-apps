@@ -184,8 +184,8 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Cloud and Infrastructure
 
-- [Neon Postgres](https://neon.com) - Manage Neon PostgreSQL databases. *Use case: Serverless PostgreSQL branching, schema management.*
-- [Supabase](https://supabase.com) - Manage and query databases. *Use case: Postgres-backed backend, auth, real-time subscriptions, file storage.*
+- [Neon](https://neon.com) - Manage Neon PostgreSQL databases. *Use case: Serverless PostgreSQL branching, schema management.*
+- [Supabase](https://supabase.com) - Manage and query databases. *Use case: PostgreSQL-backed backend, auth, real-time subscriptions, file storage.*
 - [Vantage](https://www.vantage.sh) - Cloud cost analysis and optimization. *Use case: Analyze AWS/GCP/Azure spend and surface cost optimization opportunities.*
 - [Vercel](https://vercel.com) - Search docs and deploy apps. *Use case: Next.js deployment, serverless functions, deployment analytics.*
 
