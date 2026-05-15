@@ -15,7 +15,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 > [!TIP]
 > ### App of the Week — May 15, 2026
 >
-> **[Datadog (Preview)](https://www.datadoghq.com)** · *Analytics and Data*
+> **[Datadog (Preview)](https://www.datadoghq.com/product/)** · *Analytics and Data*
 >
 > The pick from this week's 64-app sweep. Datadog is the first tier-one observability vendor to ship a real Apps SDK integration — you can search logs, metrics, traces, and incidents from your live production environment inside a ChatGPT conversation. Most other "data in chat" apps are wrappers around static dashboards; this one pipes the actual stream that on-call engineers are already paged from. The signal worth flagging: enterprise observability vendors don't ship preview integrations for platforms they don't think will stick, so this is a real read on where the Apps SDK is going. Pairs well with PagerDuty-style workflows and the Vercel app for full deploy-to-incident loops.
 
@@ -431,7 +431,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Brex](https://www.brex.com) - Automate expense workflows. *Use case: Corporate cards, expense management for startups.*
 - [CryptoAudit](https://chatgpt.com/apps/cryptoaudit) - On-chain analytics and crypto market checks. *Use case: Crypto market analysis tool.*
 - [Daloopa](https://daloopa.com) - Auditable financial KPIs with source links. *Use case: Financial KPIs with links.*
-- [Experian Loans](https://www.experian.com) - Quick personal loan estimates from Experian. *Use case: Quick personal loans estimates.*
+- [Experian Loans](https://www.experian.com/personal-loans/) - Quick personal loan estimates from Experian. *Use case: Quick personal loans estimates.*
 - [Financial Datasets](https://financialdatasets.ai) - Stock market infrastructure for AI agents. *Use case: Real-time SEC filings, financial statements, insider trades, 13F holdings, and stock prices via API for AI financial agents.*
 - [Found](https://found.com) - Banking, bookkeeping, and taxes for self-employed users. *Use case: Self-employed banking, automatic expense categorization, and quarterly tax estimates from inside chat.*
 - [Harmonic](https://www.harmonic.ai) - Discover and research startups. *Use case: Startup discovery and competitive intelligence.*
