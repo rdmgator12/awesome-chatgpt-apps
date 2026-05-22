@@ -2,7 +2,7 @@
 
 > Third-party integrations that run inside ChatGPT via OpenAI's Apps SDK.
 
-**Last updated:** May 15, 2026 | **Total apps:** 848 | **Connectors:** 20 | **Categories:** 44
+**Last updated:** May 22, 2026 | **Total apps:** 945 | **Connectors:** 11 | **Categories:** 44
 
 ChatGPT apps are verified integrations built on OpenAI's [Apps SDK](https://platform.openai.com/docs/apps-sdk) — an MCP-based protocol that lets developers extend ChatGPT with real-time access to external tools, data, and services. Apps work in chat as inline tools with custom UI, with discovery surfaced in chatgpt.com/apps.
 
@@ -13,11 +13,11 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 > This is an independent, community-maintained list. Not affiliated with, endorsed by, or sponsored by OpenAI. "ChatGPT" and related marks are the property of OpenAI. Each app is the property of its respective owner.
 
 > [!TIP]
-> ### App of the Week — May 15, 2026
+> ### App of the Week — May 22, 2026
 >
-> **[Datadog (Preview)](https://www.datadoghq.com/product/)** · *Analytics and Data*
+> **[Wolfram](https://www.wolfram.com/wolfram-for-chatgpt/)** · *AI and ML*
 >
-> The pick from this week's 64-app sweep. Datadog is the first tier-one observability vendor to ship a real Apps SDK integration — you can search logs, metrics, traces, and incidents from your live production environment inside a ChatGPT conversation. Most other "data in chat" apps are wrappers around static dashboards; this one pipes the actual stream that on-call engineers are already paged from. The signal worth flagging: enterprise observability vendors don't ship preview integrations for platforms they don't think will stick, so this is a real read on where the Apps SDK is going. Pairs well with PagerDuty-style workflows and the Vercel app for full deploy-to-incident loops.
+> The pick from this week's 119-app sweep. Wolfram is the first symbolic-computation and curated-knowledge engine to land in the Apps SDK directory — the same engine behind Wolfram Alpha and Mathematica, now reachable as a real-time tool inside ChatGPT. This is a structural unlock: where an LLM would otherwise hallucinate a calculus step or a unit conversion, Wolfram routes the question to a deterministic formal solver and returns the exact answer. Pairs naturally with `Mathly` and `Formula Genius` for math homework workflows, and with `Consensus`, `Scite`, and `Elicit` for evidence-based research that needs both literature and computation. The signal worth flagging: this is the kind of integration that closes a known LLM failure mode rather than dressing up an existing dashboard. Worth a look for anyone whose workflow ever bottlenecks on "did the model actually compute that, or just guess?"
 
 ---
 
@@ -74,6 +74,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 ## AI and ML
 
 - [AI Clarity Method](https://chatgpt.com/apps/ai-clarity-method) - AI strategy framework. *Use case: Walking through structured AI-adoption frameworks for teams.*
+- [Alhena AI](https://chatgpt.com/apps/alhena-ai) - Learn about Alhena AI. *Use case: Explore Alhena AI's agent platform and capabilities.*
 - [Apixel](https://chatgpt.com/apps/apixel) - AI image generation. *Use case: Generating product images, marketing assets, and creative visuals from prompts.*
 - [Botpress](https://botpress.com) - Production-ready AI agents. *Use case: Building and deploying conversational AI agents for customer-facing channels.*
 - [Hot100.ai](https://chatgpt.com/apps/hot100-ai) - Weekly AI project chart. *Use case: Tracking trending AI projects ranked by community signals.*
@@ -88,8 +89,11 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Prompt Perfect](https://chatgpt.com/apps/prompt-perfect) - Prompt creation and library. *Use case: Build, save, and reuse polished prompts across projects.*
 - [Quicknode](https://quicknode.com) - Web3 RPC infrastructure for OpenAI builders. *Use case: Web3 and Blockchain RPC infrastructure for AI builders integrating chain data.*
 - [Symbol](https://chatgpt.com/apps/symbol) - Persistent context for AI workflows. *Use case: Reuse personal context so you stop re-explaining yourself across chats.*
+- [Tavily AI](https://tavily.com) - Real-time web data for agents. *Use case: Pull live, agent-ready web search results into AI workflows.*
+- [Theia Insights](https://www.theiainsights.com) - Thematic investing data. *Use case: AI-driven thematic investment research and theme classification data.*
 - [Unpack AI](https://chatgpt.com/apps/unpack-ai) - Question-first brainstorming. *Use case: Drive ideation by exploring root questions before generating answers.*
 - [Vivin](https://chatgpt.com/apps/vivin) - Visible chat avatar layer. *Use case: Add a visible, animated avatar layer over ChatGPT conversations.*
+- [Wolfram](https://www.wolfram.com) - Add computation & knowledge. *Use case: Symbolic computation, curated knowledge, and formal math inside chat from the team behind Wolfram Alpha and Mathematica.*
 
 ## Analytics and Data
 
@@ -100,17 +104,21 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Amplitude](https://amplitude.com) - Search and analyze analytics data. *Use case: Product analytics, user behavior queries, funnel and retention analysis.*
 - [Ballpark](https://ballparkhq.com) - UX research platform with AI-moderated interviews. *Use case: Running surveys, prototype testing, video and voice studies, AI-moderated qualitative research at scale.*
 - [BigGeo AI](https://chatgpt.com/apps/biggeo-ai) - Spatial intelligence for LLMs. *Use case: Geospatial analytics, location-aware queries, spatial-data reasoning inside chat.*
+- [Bigdata.com](https://bigdata.com) - Real-time financial data. *Use case: Real-time financial and market data feed for analytics workflows.*
 - [Blockscout Blockchain Data](https://www.blockscout.com) - Multichain block explorer with smart-contract verification. *Use case: Inspecting transactions, verifying smart contracts, analyzing token movements across multiple chains.*
 - [Carbon Arc](https://carbonarc.ai) - Pay-as-you-go data marketplace with 50+ suppliers. *Use case: Querying tokenized data assets for portfolio research, market sizing, and competitive analysis via natural language.*
 - [CData Connect AI](https://cloud.cdata.com) - Managed MCP for 350+ data sources. *Use case: Querying databases, SaaS APIs, and warehouses through a single MCP endpoint without writing connection code.*
 - [Coupler.io](https://www.coupler.io) - Connect business data from 100+ sources. *Use case: Aggregating Shopify, ad-platform, CRM, and analytics data into dashboards and warehouses.*
 - [Cube](https://cube.dev) - Analyze your financial data. *Use case: Semantic layer queries over warehouse data for financial reporting.*
 - [Datadog (Preview)](https://www.datadoghq.com) - Search logs, metrics, and traces from your Datadog environment. *Use case: On-call investigation — pull live logs, metrics, and trace spans into chat to debug a paging incident without leaving ChatGPT.*
+- [Datarails FinanceOS](https://www.datarails.com) - AI-powered finance management. *Use case: FP&A platform for budgeting, forecasting, and financial reporting.*
 - [Deepnote MCP](https://deepnote.com) - Run notebook-based data workflows from chat. *Use case: Run data workflows with agents.*
+- [Digits](https://digits.com) - Track & analyze your finances. *Use case: AI-driven accounting analytics for small businesses.*
 - [Dovetail](https://dovetail.com) - Customer feedback and research repository. *Use case: User-research synthesis, customer interview analysis, feedback theming for product teams.*
 - [FactSet AI-Ready Data](https://www.factset.com) - Seamless financial data. *Use case: Institutional-grade financial data for investment workflows.*
 - [Hex](https://hex.tech) - Ask questions, run analyses. *Use case: SQL + Python notebooks, collaborative data exploration.*
 - [JARS LT](https://chatgpt.com/apps/jars-lt) - Lithuanian business data lookup. *Use case: Querying company registration and financial data on Lithuanian businesses.*
+- [Jepto](https://jepto.com) - Digital Marketing Intelligence. *Use case: AI-driven digital marketing analytics and forecasting.*
 - [Klarity](https://www.tryklarity.com) - Map and analyze internal business processes. *Use case: Explore your org's processes.*
 - [LSEG](https://www.lseg.com) - London Stock Exchange Group data and analytics. *Use case: Pull market data and financial analytics for institutional research.*
 - [Lytical](https://www.lytical.ai) - AI-powered website analytics. *Use case: Track traffic, surface insights, and get plain-English explanations of trends.*
@@ -120,11 +128,14 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [MSCI](https://www.msci.com) - Investment data and analytics. *Use case: Pull index and ESG data for institutional portfolio research.*
 - [Omni Analytics](https://chatgpt.com/apps/omni-analytics) - Data answers from your sources. *Use case: Ask trusted, source-linked questions across BI tools and warehouses.*
 - [Particl Market Research](https://particl.com) - E-commerce competitor intelligence. *Use case: Pull DTC sales velocity, promotions, and assortment data on retail competitors.*
+- [Pattern Intelligence](https://pattern.com) - Ecommerce AI. Always on. *Use case: AI-driven ecommerce intelligence and marketplace analytics.*
 - [Pendo](https://www.pendo.io) - For product analytics. *Use case: Product usage analytics, in-app guidance, and feature adoption.*
 - [Ramp Data](https://chatgpt.com/apps/ramp-data) - Aggregated business spend insights from Ramp. *Use case: Analyze SMB economic activity and category-level spend trends.*
 - [Similarweb](https://www.similarweb.com) - Web, app, and search market intelligence. *Use case: Pull traffic, keyword, and competitor data for digital strategy.*
 - [SkyWatch](https://chatgpt.com/apps/skywatch) - Satellite imagery search. *Use case: Find historical and current satellite images by location and date.*
+- [Sometrend](https://some.co.kr) - Analyze Korean social trends. *Use case: Track Korean social media trends and brand sentiment.*
 - [Statsig](https://statsig.com) - Connect to Statsig. *Use case: Feature flags, experimentation, and product analytics.*
+- [StockFit](https://stockfit.io) - Financial API you can rely on. *Use case: Reliable financial-data API for market and equities workflows.*
 - [Supermetrics](https://supermetrics.com) - Marketing data connectors and pipelines. *Use case: Pipe data from ad and analytics platforms into BI tools and warehouses.*
 - [ThoughtSpot Spotter](https://www.thoughtspot.com) - Your AI data analyst. *Use case: Natural-language BI queries against enterprise data.*
 - [Trendata Market Intelligence](https://chatgpt.com/apps/trendata) - Real-time market data feed. *Use case: Pull live market signals and trend data for product or strategy work.*
@@ -138,7 +149,9 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Awesome Record](https://chatgpt.com/apps/awesome-record) - Record audio in chat. *Use case: Capturing voice notes and recordings inside ChatGPT.*
 - [Metronome](https://chatgpt.com/apps/metronome) - Adjustable practice metronome. *Use case: Set BPM and time signature for instrument practice or rehearsals.*
 - [Midify](https://chatgpt.com/apps/midify) - MIDI composition and playback tool. *Use case: Compose, edit, and audition MIDI tracks for music production.*
+- [Musixmatch](https://www.musixmatch.com) - Search and display lyrics. *Use case: Lyrics lookup, sync, and translation for any track.*
 - [Phish.in](https://phish.in) - Live Phish audio archive. *Use case: Stream and browse 2,000+ Phish concerts by date, song, or venue.*
+- [Pocket FM](https://www.pocketfm.com) - Audio Series. *Use case: Stream serialized audio dramas and audiobooks.*
 - [RadioFM](https://chatgpt.com/apps/radiofm) - Live radio and podcast streaming. *Use case: Tune in to live radio stations and podcasts worldwide.*
 - [Shazam](https://www.shazam.com) - Identify songs instantly. *Use case: Identifying tracks from audio snippets or descriptions.*
 - [Spotify](https://www.spotify.com) - Music and podcasts for you. *Use case: Music and podcast discovery, playlist generation.*
@@ -150,9 +163,9 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [AutoIQ](https://chatgpt.com/apps/autoiq) - Auto loan and lease calculator. *Use case: Estimating monthly payments for vehicle loans and leases.*
 - [AutoMotion](https://chatgpt.com/apps/automotion) - Car maintenance and repair guide. *Use case: Looking up maintenance schedules and repair guidance.*
 - [AutoScout24](https://www.autoscout24.com) - Automobile buying and leasing. *Use case: European used and new car marketplace search.*
-- [AutoTrader (CA)](https://www.autotrader.ca) - Cars, motorcycles, boats deals. *Use case: Canadian vehicle marketplace search.*
-- [Autotrader (UK)](https://www.autotrader.co.uk) - Search for new and used cars. *Use case: UK car marketplace search.*
-- [Autotrader (US)](https://www.autotrader.com) - Buy and sell new and used cars. *Use case: US car marketplace search and listing.*
+- [AutoTrader](https://www.autotrader.ca) - Cars, Motorcycles, Boats Deals. *Use case: Canadian vehicle marketplace search.*
+- [Autotrader](https://www.autotrader.co.uk) - Search for new and used cars. *Use case: UK car marketplace search.*
+- [Autotrader](https://www.autotrader.com) - Buy and sell new and used cars. *Use case: US car marketplace search and listing.*
 - [Autovit.ro](https://www.autovit.ro) - Find your dream car in Autovit. *Use case: Romanian car marketplace.*
 - [Cara](https://chatgpt.com/apps/cara) - Car shopping assistant. *Use case: Browsing and comparing vehicles for purchase.*
 - [CARFAX](https://www.carfax.com) - Shop new and used cars. *Use case: Vehicle history reports and shopping.*
@@ -167,11 +180,12 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [DoneDeal](https://www.donedeal.ie) - Find new and used cars. *Use case: Irish vehicle and classifieds marketplace.*
 - [Edmunds](https://www.edmunds.com) - Instant offers for your car. *Use case: Vehicle valuation, instant offers, and car research.*
 - [Kelley Blue Book](https://www.kbb.com) - Trusted source for car valuations and pricing. *Use case: Getting trade-in, private-party, and Fair Purchase Price values for any new or used vehicle.*
+- [La Centrale](https://www.lacentrale.fr) - Trouver votre véhicule. *Use case: French car marketplace search.*
 - [Luxauto](https://www.luxauto.lu) - Luxembourg car and motorcycle marketplace. *Use case: Search used and new vehicles for sale, lease, or rent in Luxembourg.*
 - [motos.net](https://www.motos.net) - Find new and used motorbikes. *Use case: Spanish motorcycle marketplace.*
 - [MyCarTracks](https://www.mycartracks.com) - Vehicle and mileage tracking. *Use case: Log business miles and monitor fleet vehicles for compliance.*
-- [Otomoto](https://www.otomoto.pl) - Find your dream car in Otomoto. *Use case: Polish vehicle marketplace.*
-- [Rolf Autohaus Showroom](https://chatgpt.com/apps/rolf-autohaus-showroom) - Rolf Autohaus inventory browser. *Use case: Find available cars from the Rolf Autohaus dealership inventory.*
+- [OTOMOTO](https://www.otomoto.pl) - Find your dream car in Otomoto. *Use case: Polish vehicle marketplace.*
+- [Rolf Automobile Showroom](https://chatgpt.com/apps/rolf-autohaus-showroom) - Find cars from our inventory. *Use case: Find available cars from the Rolf Autohaus dealership inventory.*
 - [SIXT](https://www.sixt.com) - Premium car rental booking. *Use case: Book and manage SIXT rental car reservations worldwide.*
 - [Standvirtual](https://www.standvirtual.com) - Your dream car in Standvirtual. *Use case: Portuguese vehicle marketplace.*
 - [Turo](https://turo.com) - Search Turo car rentals. *Use case: Peer-to-peer car rental discovery.*
@@ -180,14 +194,15 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Calendar and Scheduling
 
-- [Calendesk](https://calendesk.com) - Book appointments and manage scheduling from chat. *Use case: Your scheduling assistant.*
+- [Calendly](https://calendly.com) - Manage bookings & availability. *Use case: Share scheduling links, manage meeting availability, and book calls.*
 - [Quick Calendar](https://chatgpt.com/apps/quick-calendar) - Date and day lookup. *Use case: Quickly check what day of the week a date falls on.*
 - [Reclaim.ai](https://reclaim.ai) - AI calendar and task scheduler. *Use case: Auto-schedule tasks, focus time, and meetings around priorities.*
 - [RemindMeIQ](https://chatgpt.com/apps/remindmeiq) - Reminder and follow-up assistant. *Use case: Set smart reminders for tasks, bills, and follow-ups.*
 
 ## Cloud and Infrastructure
 
-- [Neon](https://neon.com) - Manage Neon PostgreSQL databases. *Use case: Serverless PostgreSQL branching, schema management.*
+- [Convex](https://convex.dev) - Build and scale apps. *Use case: Reactive backend-as-a-service with database, functions, and real-time sync.*
+- [Neon Postgres](https://neon.com) - Manage Neon PostgreSQL databases. *Use case: Serverless PostgreSQL branching, schema management.*
 - [Supabase](https://supabase.com) - Manage and query databases. *Use case: PostgreSQL-backed backend, auth, real-time subscriptions, file storage.*
 - [Vantage](https://www.vantage.sh) - Cloud cost analysis and optimization. *Use case: Analyze AWS/GCP/Azure spend and surface cost optimization opportunities.*
 - [Vercel](https://vercel.com) - Search docs and deploy apps. *Use case: Next.js deployment, serverless functions, deployment analytics.*
@@ -205,6 +220,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Garchi CMS](https://chatgpt.com/apps/garchi-cms) - MCP-based content management. *Use case: Managing CMS content via natural language through an MCP server.*
 - [Grapes Studio](https://chatgpt.com/apps/grapes-studio) - Website and email creation. *Use case: Building landing pages and marketing emails inside chat.*
 - [Hostinger](https://www.hostinger.com) - AI-powered website builder and hosting. *Use case: Building sites via natural-language prompts, hosting with included domain, AI writing and SEO tools.*
+- [InstaSite Builder](https://chatgpt.com/apps/instasite-builder) - Create sites instantly. *Use case: Generate complete websites from a single prompt.*
 - [Jimdo](https://www.jimdo.com) - Create your website. *Use case: AI-assisted small business website builder.*
 - [Lovable](https://lovable.dev) - Build apps and websites. *Use case: Prompt-to-app generation with full-stack output.*
 - [Pixelesq](https://chatgpt.com/apps/pixelesq) - Website builder and manager. *Use case: Build, edit, and manage marketing or portfolio sites.*
@@ -214,47 +230,42 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 ## Communication
 
-- [Botlab(CALL•E)](https://airudder.com/botlab) - Make calls and verify info. *Use case: Outbound voice agents for verification and routine calls.*
+- [CALL-E](https://airudder.com/botlab) - Make phone calls for you. *Use case: Outbound voice agents for verification and routine calls.*
 - [Fathom](https://fathom.ai) - Meeting recording, transcription, and AI summaries. *Use case: Automatic Zoom/Meet/Teams call recording, AI summaries, action-item extraction, CRM sync.*
 - [Fireflies](https://fireflies.ai) - Meeting transcription and search. *Use case: Searching across meeting transcripts, extracting decisions and action items, AI-generated summaries.*
 - [Fyxer](https://fyxer.com) - Write emails in your voice. *Use case: AI email assistant matching personal tone.*
+- [Krisp](https://krisp.ai) - Add meeting context to chats. *Use case: Noise-cancelled meeting recording and context retrieval inside chat.*
 - [L Message](https://chatgpt.com/apps/l-message) - Search saved LINE message data and conversations. *Use case: Search LINE message archives and customer conversation history saved via L Message (LMe), the Japanese SMB CRM.*
 - [mydeetz](https://chatgpt.com/apps/mydeetz) - Digital contact card sharing. *Use case: Share your contact info with a tap or QR code at events.*
 - [Opera Browser Connector](https://www.opera.com) - Opera browser integration. *Use case: Drive tabs, history, and bookmarks in the Opera browser from chat.*
 - [Slack](https://slack.com) - Send messages and fetch data. *Use case: Channel and DM messaging, message search across workspaces.*
 - [Superhuman Mail](https://superhuman.com) - AI-powered email client. *Use case: Search, draft, send, and schedule emails 2x faster from a streamlined inbox.*
+- [Zocks](https://www.zocks.io) - Analyze client insights. *Use case: AI client-meeting intelligence for financial advisors.*
 
 ## Connectors
 
 OpenAI Connectors are first-party data integrations that let ChatGPT access services like email, calendars, and project tools. These appear in the Connectors block of the official directory rather than the Apps grid.
 
-- [Aha!](https://www.aha.io) - Product roadmap and strategy connector. *Use case: Sync Aha! product roadmaps and features for use in ChatGPT.*
-- [Azure Boards](https://azure.microsoft.com/en-us/products/devops/boards) - Azure DevOps Boards connector. *Use case: Sync Azure DevOps work items and repos for use in ChatGPT.*
-- [Basecamp](https://basecamp.com) - Project management connector. *Use case: Sync Basecamp projects and to-dos for use in ChatGPT.*
+- [Finances](https://chatgpt.com/connectors) - Securely connect your accounts to get personalized financial insights. *Use case: First-party OpenAI financial accounts connector for personalized insights.*
 - [GitHub](https://github.com) - Source code hosting connector. *Use case: Access repositories, issues, and pull requests; required for some features such as Codex.*
-- [GitLab Issues](https://gitlab.com) - Issues and merge requests connector. *Use case: Sync GitLab Issues and merge requests for use in ChatGPT.*
 - [Gmail](https://mail.google.com) - Email connector. *Use case: Find and reference emails from your inbox.*
 - [Google Calendar](https://calendar.google.com) - Calendar connector. *Use case: Look up events and availability.*
 - [Google Contacts](https://contacts.google.com) - Contacts connector. *Use case: Reference saved contact details.*
 - [Google Drive](https://drive.google.com) - Cloud storage connector. *Use case: Work with Google Docs, Sheets, and Slides.*
-- [Help Scout](https://www.helpscout.com) - Customer support inbox connector. *Use case: Sync Help Scout mailboxes and conversations for use in ChatGPT.*
-- [Intercom](https://www.intercom.com) - Customer messaging connector. *Use case: Look up past user chats and tickets.*
 - [OpenAI Platform](https://platform.openai.com) - OpenAI API platform connector. *Use case: Create an OpenAI API key after connecting Platform.*
 - [Outlook Calendar](https://outlook.live.com/calendar) - Microsoft 365 calendar connector. *Use case: Look up events and availability.*
 - [Outlook Email](https://outlook.live.com/mail) - Microsoft 365 email connector. *Use case: Search and reference your Outlook email.*
-- [Pipedrive](https://www.pipedrive.com) - CRM connector. *Use case: Sync Pipedrive deals and contacts for use in ChatGPT.*
 - [SharePoint](https://www.microsoft.com/sharepoint) - Document collaboration connector. *Use case: Search and pull from shared sites and OneDrive.*
 - [Teams](https://www.microsoft.com/microsoft-teams) - Microsoft Teams chat connector. *Use case: Look up chats and messages.*
-- [Teamwork.com](https://www.teamwork.com) - Project management connector. *Use case: Sync Teamwork projects and tasks for use in ChatGPT.*
-- [Zoho](https://www.zoho.com) - CRM connector for the Zoho suite. *Use case: Sync Zoho CRM records and activities for use in ChatGPT.*
-- [Zoho Desk](https://www.zoho.com/desk) - Zoho support desk connector. *Use case: Sync Zoho Desk tickets and customer conversations for use in ChatGPT.*
 
 ## CRM and Sales
 
+- [Affinity](https://www.affinity.co) - Search, update, and prep deals. *Use case: Relationship-intelligence CRM for VC and dealmaking teams.*
 - [Agentforce Sales](https://www.salesforce.com/agentforce) - Sales insights to close deals. *Use case: Salesforce-backed sales intelligence and pipeline insights.*
+- [AI Vibe Prospecting](https://www.vibeprospecting.ai) - Find B2B leads. *Use case: AI-driven prospect discovery and enrichment.*
+- [Amplemarket](https://www.amplemarket.com) - Prospect, research and engage. *Use case: AI sales platform for prospecting, multichannel outreach, and engagement.*
 - [Apollo.io](https://www.apollo.io) - AI sales platform with B2B database, outreach, and deal automation. *Use case: Prospecting and lead generation, multichannel sequences, sales engagement powered by 270M+ contacts.*
 - [Attio](https://attio.com) - AI-native CRM with flexible data model. *Use case: Customizing CRM workflows, contact and deal management, AI-powered relationship tracking for B2B teams.*
-- [BlueSuite](https://chatgpt.com/apps/bluesuite) - Business management tool for BlueSuite users. *Use case: Managing customers, sales, and operations from inside the BlueSuite platform.*
 - [Carta CRM](https://carta.com) - Find deals, investors, notes. *Use case: VC and private market deal flow tracking.*
 - [Clarify](https://www.clarify.ai) - Query and manage your CRM with chat. *Use case: Asking natural-language questions of CRM data, creating records, tracking pipeline.*
 - [Clay](https://clay.com) - Find and engage prospects. *Use case: Prospect enrichment and outbound list building.*
@@ -262,17 +273,19 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Clutch.co](https://clutch.co) - Find verified B2B agency and service partners. *Use case: Discovering and vetting B2B partners across software, marketing, design, and consulting.*
 - [Common Room](https://www.commonroom.io) - Find contacts and accounts. *Use case: Community-led growth and account intelligence.*
 - [Crossbeam](https://www.crossbeam.com) - Explore partner insights. *Use case: Partner ecosystem account-mapping intelligence.*
+- [Demodesk](https://demodesk.com) - Sales meeting platform with coaching analytics in ChatGPT. *Use case: Pull sales meeting recordings, coaching insights, and conversation analytics into chat.*
 - [Dex](https://getdex.com) - Manage your Dex CRM. *Use case: Personal relationship CRM with contact reminders.*
 - [Every AI](https://chatgpt.com/apps/every-ai) - Client and invoice management. *Use case: Tracking clients, invoices, and payments for freelancers and small agencies.*
 - [Happenstance](https://www.happenstance.ai) - AI-powered network search across LinkedIn, Twitter, and contacts. *Use case: Sales prospecting through warm-intro paths, hiring searches, fundraising connections via your team's combined network.*
 - [HubSpot](https://www.hubspot.com) - Insights to action in HubSpot. *Use case: CRM, marketing, and sales workflow automation.*
 - [Lusha](https://www.lusha.com) - Verified B2B data and signals. *Use case: B2B contact and intent data for prospecting.*
+- [Magnetly](https://magnetly.com) - Build interactive lead tools. *Use case: Create interactive lead-generation widgets and quizzes.*
 - [Mixmax](https://www.mixmax.com) - Sales engagement and email outreach platform. *Use case: Send sequences, track opens, and book meetings from Gmail.*
 - [QuoteCraft AI](https://chatgpt.com/apps/quotecraft-ai) - Sales quote and estimate generator. *Use case: Generate customer quotes and project estimates with line items.*
 - [SalesEQ](https://chatgpt.com/apps/saleseq) - Meeting data connector for sales. *Use case: Pipe meeting recordings and notes into sales coaching workflows.*
 - [Spinify](https://chatgpt.com/apps/spinify) - Sales leaderboard and coaching. *Use case: Run sales contests and coach reps with gamified leaderboards.*
 - [Streak](https://www.streak.com) - CRM that lives inside Gmail. *Use case: Inbox-native CRM and pipeline management.*
-- [VibeProspecting](https://www.vibeprospecting.ai) - Find, enrich, and win leads. *Use case: AI-driven prospect discovery and enrichment.*
+- [Twenty](https://twenty.com) - CRM workspace tools. *Use case: Open-source modern CRM for sales and revenue teams.*
 - [ZoomInfo](https://www.zoominfo.com) - B2B data and GTM intelligence. *Use case: B2B contact and company data for go-to-market teams.*
 
 
@@ -292,9 +305,10 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Background Changer](https://chatgpt.com/apps/background-changer) - Discover website themes. *Use case: Browsing background and theme options for sites and presentations.*
 - [Blocks and Arrows](https://chatgpt.com/apps/blocks-and-arrows) - Visual diagram creation. *Use case: Building flowcharts, system diagrams, and architecture sketches.*
 - [Canva](https://www.canva.com) - Search, create, edit designs. *Use case: Templates, social graphics, and presentations.*
+- [Canvs.io whiteboard](https://chatgpt.com/apps/canvs-io-whiteboard) - Collaborative whiteboards. *Use case: Real-time collaborative whiteboarding for distributed teams.*
+- [CI HUB](https://www.ci-hub.com) - All assets at a glance. *Use case: Digital asset management connector across creative tools.*
 - [Cloudinary](https://cloudinary.com) - Manage, modify, and host images and video. *Use case: Image and video CDN, transformations, asset management.*
 - [DepositPhotos](https://depositphotos.com) - Stock photos, vectors, and video library. *Use case: Licensing royalty-free creative assets for marketing, presentations, and content.*
-- [Draw Gen: Pyxl](https://chatgpt.com/apps/draw-gen-pyxl) - AI image generation. *Use case: Generating pixel-art and illustrated images from prompts.*
 - [Figma](https://www.figma.com) - Make diagrams and slides. *Use case: Design files, FigJam diagrams, and slide creation.*
 - [GetMeDesign](https://chatgpt.com/apps/getmedesign) - Find design professionals fast. *Use case: Discovering and connecting with freelance designers for projects.*
 - [Kyiv Gallery](https://chatgpt.com/apps/kyiv-gallery) - Discover Ukrainian artwork. *Use case: Browsing and purchasing Ukrainian fine art and prints.*
@@ -306,14 +320,17 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Mondoir.art](https://chatgpt.com/apps/mondoir-art) - Curated artwork discovery for spaces. *Use case: Find original art that fits your room dimensions, palette, and style.*
 - [MyFonts](https://www.myfonts.com) - Font discovery and licensing. *Use case: Find typefaces by mood, language, or visual style for design projects.*
 - [Photo9](https://chatgpt.com/apps/photo9) - Photo book design and printing. *Use case: Lay out and order printed photo books from your library.*
+- [Pixelixe](https://www.pixelixe.com) - Create and edit graphics. *Use case: Browser-based graphic and image editor for social and marketing assets.*
 - [Shutterstock](https://www.shutterstock.com) - Spark ideas with Shutterstock. *Use case: Stock imagery, video, and music licensing.*
 - [to3D](https://chatgpt.com/apps/to3d) - 2D image to 3D glTF converter. *Use case: Convert photos and flat images into 3D-printable or AR-ready glTF models.*
+- [Vulca](https://chatgpt.com/apps/vulca) - Structure visual work. *Use case: Organize and structure visual design and creative output.*
 - [Wallector](https://chatgpt.com/apps/wallector) - Curated art marketplace. *Use case: Discover and buy original art from a curated collection.*
 - [Whimsical](https://whimsical.com) - Diagrams, mindmaps, wireframes. *Use case: Lightweight diagrams, mindmaps, and wireframes.*
 
 ## Development Tools
 
 - [3Min API](https://3minapi.com) - Create no-code REST APIs in three minutes. *Use case: Spinning up CRUD endpoints with API keys instantly, no backend required.*
+- [Alchemy](https://www.alchemy.com) - Access onchain data. *Use case: Web3 Blockchain APIs for onchain data and node infrastructure.*
 - [AppDeploy](https://chatgpt.com/apps/appdeploy) - Publish apps online. *Use case: Deploying and hosting small applications without infrastructure setup.*
 - [BlazeSQL](https://blazesql.com) - AI SQL query generator for major databases. *Use case: Generating queries for PostgreSQL, MySQL, Snowflake, BigQuery, and more from natural language; AI-driven data analyst chat over your database.*
 - [Buildfire](https://buildfire.com) - Manage published mobile app operations from chat. *Use case: Manage app operations.*
@@ -321,10 +338,13 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Create State](https://chatgpt.com/apps/create-state) - Save code and decisions. *Use case: Persisting code snippets and architectural decisions across sessions.*
 - [Exa](https://exa.ai) - Neural web search for AI applications. *Use case: AI-powered web search returning clean, LLM-ready content for agents and research workflows.*
 - [HAPI MCP Registry](https://chatgpt.com/apps/hapi-mcp-registry) - Find MCP servers. *Use case: Discovering and connecting MCP servers for ChatGPT and other clients.*
+- [IcePanel](https://icepanel.io) - Design software architecture. *Use case: Collaborative software architecture diagramming and modeling.*
 - [Manufact](https://chatgpt.com/apps/manufact) - Deploy and monitor remote MCP servers. *Use case: Deploy and monitor MCP servers.*
+- [Metaplay SDK Docs](https://docs.metaplay.io) - Search Metaplay SDK docs. *Use case: Look up Metaplay game-backend SDK documentation and references.*
 - [Noodle Seed](https://chatgpt.com/apps/noodle-seed) - MCP application monitor. *Use case: Track health and usage of your MCP servers from one dashboard.*
 - [OrangePro](https://chatgpt.com/apps/orangepro) - Automated QA review for every pull request. *Use case: AI QA for every pull request.*
 - [Replay.io](https://replay.io) - Time-travel debugging for web apps. *Use case: Step through a recorded browser session and ask ChatGPT to investigate a bug across the full execution trace.*
+- [Sleuth Skills](https://sleuth.io) - Use your custom skills in chat. *Use case: Invoke custom skills and DevOps automations from chat.*
 - [TRIGGERcmd](https://chatgpt.com/apps/triggercmd) - Remote command execution. *Use case: Run preconfigured commands on your computers from anywhere.*
 - [YepCode](https://chatgpt.com/apps/yepcode) - Custom AI tool builder. *Use case: Build and run custom AI-powered automations and tools.*
 
@@ -337,6 +357,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [CamScanner](https://www.camscanner.com) - Document scanning with OCR and PDF export. *Use case: Capturing receipts, notes, and forms with smart cropping; extracting text in 41 languages; sharing as PDF.*
 - [CorpusIQ](https://chatgpt.com/apps/corpusiq) - Query a corpus of files with natural language. *Use case: Ask questions across files.*
 - [Datasite](https://datasite.com) - Virtual data rooms for M&A and dealmaking. *Use case: Diligence document management, deal pipeline tracking, AI-powered redaction across deal artifacts.*
+- [Docusign](https://www.docusign.com) - Manage contracts from ChatGPT. *Use case: Send, sign, and track contracts via Docusign from chat.*
 - [DocuSeal](https://www.docuseal.co) - E-signature workflow management. *Use case: Sending and tracking documents for digital signature with template support.*
 - [Dropbox](https://www.dropbox.com) - Access, save, and share files. *Use case: Cloud file storage and sharing.*
 - [Dropbox Dash](https://www.dropbox.com/dash) - AI that understands your work. *Use case: Universal search across SaaS-stored files and content.*
@@ -346,7 +367,6 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Foxit PDF Editor](https://www.foxit.com) - Edit and share PDF documents. *Use case: Editing, annotating, signing, and sharing PDFs across desktop and web.*
 - [Ideals](https://www.idealsvdr.com) - Manage virtual data rooms for M&A and due diligence. *Use case: Search, manage, update VDR.*
 - [iScanner](https://iscanner.com) - Mobile document scanner with PDF export. *Use case: Scanning receipts, contracts, and IDs with AI auto-cropping; OCR in 23+ languages; e-signature and PDF editing.*
-- [MarcoPolo](https://marcopolo.dev) - Secure workspace for your data. *Use case: Secure document workspace and analysis.*
 - [PandaDoc](https://www.pandadoc.com) - Document creation, e-signature, and tracking. *Use case: Send proposals and contracts for signature and track recipient activity.*
 - [PDF Editor PRO by Playgram](https://chatgpt.com/apps/pdf-editor-pro-by-playgram) - PDF editing and annotation. *Use case: Mark up, fill, and edit PDF documents inline.*
 - [Sign.com](https://www.sign.com) - Create and sign documents online. *Use case: Create and sign documents.*
@@ -358,6 +378,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 ## Education and Learning
 
 - [A-Z Dictionary](https://chatgpt.com/apps/a-z-dictionary) - Look up word definitions. *Use case: Quick dictionary lookup inside ChatGPT.*
+- [Academic Writing Toolkit](https://chatgpt.com/apps/academic-writing-toolkit) - Review academic drafts. *Use case: Critique and edit academic papers and theses.*
 - [Ace Knowledge Graph](https://chatgpt.com/apps/ace-knowledge-graph) - Turn docs and topics to graphs. *Use case: Building knowledge graphs from study material.*
 - [Ace Quiz Maker](https://acequiz.ai) - Turn PDFs and notes to quizzes. *Use case: Auto-generating practice quizzes from notes.*
 - [AnswerBack](https://chatgpt.com/apps/answerback) - Conversation practice. *Use case: Practicing language and dialogue scenarios with AI feedback.*
@@ -374,6 +395,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [DataCamp](https://www.datacamp.com) - Learn AI and coding skills. *Use case: Data and ML skills training with hands-on exercises.*
 - [Drill](https://chatgpt.com/apps/drill) - Study card creation and review. *Use case: Building flashcards and running spaced-repetition study sessions.*
 - [edX](https://www.edx.org) - Learn new skills online. *Use case: University-backed course discovery and learning.*
+- [ETT](https://chatgpt.com/apps/ett) - Practice SAT questions. *Use case: Adaptive SAT practice questions and prep drills.*
 - [Glossarize](https://chatgpt.com/apps/glossarize) - Word definitions and meanings. *Use case: Looking up vocabulary and term definitions inside chat.*
 - [Good with Words](https://chatgpt.com/apps/good-with-words) - Understand and improve any text. *Use case: Rewriting, simplifying, and polishing written content.*
 - [How To Student](https://chatgpt.com/apps/how-to-student) - Next-gen AI ACT prep. *Use case: AI-tutored ACT exam preparation with adaptive practice.*
@@ -383,8 +405,10 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [LeapScholar](https://leapscholar.com) - Search university programs abroad. *Use case: Study-abroad program search for Indian students.*
 - [Mathly](https://www.getmathly.com) - Step-by-step math problem solver. *Use case: Get worked solutions for algebra, calculus, or homework problems with explanations.*
 - [OpenAI Certified](https://openai.com/certified) - OpenAI skills certification program. *Use case: Learn practical AI skills inside ChatGPT and earn OpenAI Certified credentials.*
+- [Pencil Spaces](https://www.pencilspaces.com) - Intelligent Virtual Classroom. *Use case: AI-augmented virtual classroom for online teaching and tutoring.*
 - [Powers Index](https://chatgpt.com/apps/powers-index) - Understand and compare college performance metrics. *Use case: Understand college performance.*
 - [Preply Language Tutor Finder](https://preply.com) - Find language tutors. *Use case: Language tutor discovery and booking.*
+- [Promova](https://promova.com) - Learn languages with Promova. *Use case: Personalized language lessons and conversation practice.*
 - [Quizlet](https://quizlet.com) - Create flashcards. *Use case: Flashcard generation and study sets.*
 - [Ray Arceneaux](https://chatgpt.com/apps/ray-arceneaux) - AI implementation training. *Use case: Get coaching on integrating AI tools into business workflows.*
 - [ScholarshipOwl](https://chatgpt.com/apps/scholarshipowl) - Scholarship search and application. *Use case: Find and apply to college scholarships matching your profile.*
@@ -392,6 +416,8 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Skillshare](https://www.skillshare.com) - Find creative classes by chat. *Use case: Creative skills classes and workshops.*
 - [StraighterLine Degree Planner](https://www.straighterline.com) - Complete your college degree. *Use case: Affordable transferable college credit planning.*
 - [StudyMe.ai](https://chatgpt.com/apps/studyme-ai) - Generate interactive lessons from study material. *Use case: Create interactive lessons.*
+- [Talents Kids](https://chatgpt.com/apps/talents-kids) - We Discover Geniuses. *Use case: Discover and develop talents in kids through guided activities.*
+- [The Princeton Review](https://www.princetonreview.com) - SAT prep from the experts. *Use case: Test prep and college admissions guidance from The Princeton Review.*
 - [Wayground](https://wayground.com) - Create quizzes and flashcards. *Use case: Quiz and flashcard generation for educators.*
 - [ZZAIM](https://chatgpt.com/apps/zzaim) - Korean K-12 lesson planner. *Use case: Plan K-12 lessons aligned to Korean curriculum standards.*
 
@@ -416,22 +442,32 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [emaqi](https://chatgpt.com/apps/emaqi) - Manga discovery and recommendations. *Use case: Finding and recommending manga titles by genre, theme, or mood.*
 - [Leyware](https://chatgpt.com/apps/leyware) - Steam game search. *Use case: Searching the Steam catalog for games and information.*
 - [Movie Pick](https://chatgpt.com/apps/movie-pick) - AI movie recommendation engine. *Use case: Get film picks based on mood, genre, and watch history.*
+- [MovieFind](https://chatgpt.com/apps/moviefind) - Randomly find movies. *Use case: Surface random movie picks across streaming services.*
 - [PocketMind: Texas Hold'em](https://chatgpt.com/apps/pocketmind-texas-holdem) - Poker training opponent. *Use case: Practice Texas Hold'em hands and strategy against an AI player.*
+- [QuizFlight](https://chatgpt.com/apps/quizflight) - Create and run live quizzes. *Use case: Create and host real-time interactive quiz games.*
+- [QuizStage](https://chatgpt.com/apps/quizstage) - Edit quiz shows. *Use case: Build and edit interactive quiz show experiences.*
 - [Regal](https://www.regmovies.com) - Find Regal theatres and shows. *Use case: Regal Cinemas showtime and ticket lookup.*
 - [Snake Retro: Neon Arcade](https://chatgpt.com/apps/snake-retro) - Snake game with skins and badges. *Use case: Play retro Snake with leaderboards and unlockables.*
 - [Tubi](https://www.tubi.com) - Free streaming movies and TV. *Use case: Watch ad-supported movies, shows, and trivia for free.*
 
 ## Finance and Trading
 
+- [Affirm](https://www.affirm.com) - Flexible payments, big savings. *Use case: BNPL financing for online purchases.*
+- [Akaunting](https://akaunting.com) - Track invoices and expenses. *Use case: Open-source accounting for small businesses.*
 - [Aleph](https://www.getaleph.com) - AI-native FP&A platform with 150+ ERP/HRIS/CRM connectors. *Use case: Financial reporting, collaborative budgeting, modeling and forecasting with bi-directional Excel/Sheets sync.*
 - [Alpaca](https://alpaca.markets) - Developer-first API for stock, options, and crypto trading. *Use case: Algorithmic trading, multi-leg options strategies, embedded investing for fintech apps.*
 - [AmazingPensions](https://chatgpt.com/apps/amazingpensions) - Pension projection calculator. *Use case: Estimating retirement savings and pension growth.*
+- [Autumn](https://useautumn.com) - Connecting ChatGPT to Autumn. *Use case: SaaS billing and subscription management platform.*
 - [Bankrate](https://www.bankrate.com) - Browse savings products. *Use case: Comparing savings, CD, and lending products.*
+- [Bill Splitter](https://chatgpt.com/apps/bill-splitter) - Share the check. *Use case: Split bills evenly among friends and groups.*
+- [Billabex](https://billabex.com) - Manage payment follow-ups. *Use case: Automated invoice and payment follow-up workflows.*
 - [Binance](https://www.binance.com) - Cryptocurrency exchange market data and trading. *Use case: Querying crypto prices, order books, candlestick data, and market analytics from Binance.*
 - [Brex](https://www.brex.com) - Automate expense workflows. *Use case: Corporate cards, expense management for startups.*
+- [Co-Invest, by Liquid](https://liquid.com) - Trade anything, anywhere. *Use case: Co-investment platform for trading and access to private deals.*
 - [CryptoAudit](https://chatgpt.com/apps/cryptoaudit) - On-chain analytics and crypto market checks. *Use case: Crypto market analysis tool.*
 - [Daloopa](https://daloopa.com) - Auditable financial KPIs with source links. *Use case: Financial KPIs with links.*
 - [Experian Loans](https://www.experian.com/personal-loans/) - Quick personal loan estimates from Experian. *Use case: Quick personal loans estimates.*
+- [Fakturoid](https://www.fakturoid.cz) - Online invoicing. *Use case: Czech online invoicing and accounting for freelancers and SMBs.*
 - [Financial Datasets](https://financialdatasets.ai) - Stock market infrastructure for AI agents. *Use case: Real-time SEC filings, financial statements, insider trades, 13F holdings, and stock prices via API for AI financial agents.*
 - [Found](https://found.com) - Banking, bookkeeping, and taxes for self-employed users. *Use case: Self-employed banking, automatic expense categorization, and quarterly tax estimates from inside chat.*
 - [Harmonic](https://www.harmonic.ai) - Discover and research startups. *Use case: Startup discovery and competitive intelligence.*
@@ -448,7 +484,6 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Morningstar](https://www.morningstar.com) - Live market insights. *Use case: Investment research and fund analysis.*
 - [Mortgage IQ](https://chatgpt.com/apps/mortgage-iq) - Mortgage rate and payment calculator. *Use case: Get free rate comparisons and payment breakdowns for home loans.*
 - [MutuiOnline.it](https://www.mutuionline.it) - Italian mortgage comparison platform. *Use case: Compare home loans across Italian lenders to save on interest.*
-- [Nexafin](https://chatgpt.com/apps/nexafin) - Conversational personal finance assistant. *Use case: Ask questions about your accounts, spending, and net worth in plain language.*
 - [OakbrookOne](https://chatgpt.com/apps/oakbrookone) - Debt consolidation explorer. *Use case: Compare consolidation loan options and payoff strategies.*
 - [OKX](https://www.okx.com) - Crypto exchange and market data. *Use case: Pull crypto prices, order book depth, and market data for trading research.*
 - [OptionsCalc](https://chatgpt.com/apps/optionscalc) - Options strategy builder. *Use case: Construct multi-leg option strategies and visualize payoff diagrams.*
@@ -456,12 +491,15 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Parqet](https://parqet.com) - Portfolio tracking and analytics. *Use case: Chat with your investment portfolio to review allocation and dividends.*
 - [PayPal](https://www.paypal.com) - Payments and business tools. *Use case: Payment processing, invoicing, and business tooling.*
 - [Per Diem](https://chatgpt.com/apps/per-diem) - AI personal finance analyzer. *Use case: Get AI-driven insights into spending patterns and cash flow.*
+- [Phenomen Stocks IL](https://chatgpt.com/apps/phenomen-stocks-il) - Israeli equities & analysis. *Use case: Research and analyze stocks listed on the Tel Aviv Stock Exchange.*
 - [PortfolioIQ](https://chatgpt.com/apps/portfolioiq) - Investment growth simulator. *Use case: Model portfolio growth scenarios across different allocations.*
 - [Quartr](https://quartr.com) - AI-powered company research. *Use case: Earnings calls, investor materials, and company research.*
 - [Ramp](https://ramp.com) - Automate finance tasks. *Use case: Corporate cards, expense management, finance automation.*
 - [Razorpay](https://razorpay.com) - Indian payment gateway dashboard. *Use case: View Razorpay payments, refunds, and settlements from chat.*
+- [RealOpen](https://realopen.com) - Crypto proof of funds. *Use case: Convert crypto to proof-of-funds letters for real estate offers.*
 - [Remitly](https://www.remitly.com) - Plan remittances. *Use case: Cross-border money transfer planning.*
 - [RetirementIQ](https://chatgpt.com/apps/retirementiq) - Retirement readiness scoring. *Use case: Score retirement readiness and surface gaps in your plan.*
+- [Ria Money Transfer](https://www.riamoneytransfer.com) - Rates and transfer quotes. *Use case: International money transfer rate lookup and remittance.*
 - [S&P Global](https://www.spglobal.com) - Query S&P Global data. *Use case: Markets, ratings, indices, and commodities data.*
 - [SecureLend](https://chatgpt.com/apps/securelend) - Loan and financing comparison. *Use case: Compare loan offers and financing options.*
 - [Simply Family Budget](https://chatgpt.com/apps/simply-family-budget) - Household budgeting tool. *Use case: Track real available balance after bills and obligations.*
@@ -469,11 +507,14 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Stripe](https://stripe.com) - Payments and business tools. *Use case: Payment processing, billing, and business APIs.*
 - [SueldoNeto](https://chatgpt.com/apps/sueldoneto) - Spanish net-salary calculator. *Use case: Calculate take-home pay in Spain after taxes and deductions.*
 - [TaxHeaven](https://chatgpt.com/apps/taxheaven) - UK tax calculator and MTD checker. *Use case: Calculate UK tax liability and check Making Tax Digital compliance.*
+- [TaxMadeEazy: Rideshare Ded](https://chatgpt.com/apps/taxmadeeazy-rideshare-ded) - Rideshare Tax Deduction. *Use case: Track tax deductions for rideshare drivers.*
 - [Third Bridge](https://www.thirdbridge.com) - Expert-led enhanced insights. *Use case: Expert network insights for institutional investors.*
 - [TickerSage](https://tickersage.com) - Live stock and crypto data. *Use case: Real-time market data lookup.*
 - [Tinman AI](https://chatgpt.com/apps/tinman-ai) - Complex loan scenario solver. *Use case: Work through unusual mortgage and loan structuring questions.*
 - [Token Terminal](https://www.tokenterminal.com) - On-chain financial fundamentals. *Use case: Pull standardized fees, revenue, and metrics across blockchains and protocols.*
+- [TrueProfit](https://trueprofit.io) - Connect TrueProfit to ChatGPT. *Use case: Connect Shopify TrueProfit profit analytics to chat.*
 - [U.S. Gold Bureau Metal Spots](https://chatgpt.com/apps/us-gold-bureau-metal-spots) - Live precious metals spot prices. *Use case: Pull live gold, silver, platinum, and palladium prices.*
+- [Vantixs](https://chatgpt.com/apps/vantixs) - Trading app, automation bot. *Use case: Automated trading bots and strategy execution.*
 - [VUHL VA Loan Calculator](https://chatgpt.com/apps/vuhl-va-loan-calculator) - VA loan payment estimator. *Use case: Estimate VA loan monthly payments for veterans.*
 - [WealthCheck Financial Planner](https://chatgpt.com/apps/wealthcheck) - Free financial health checkup. *Use case: Run a quick financial health assessment and surface gaps.*
 - [Yoshi](https://chatgpt.com/apps/yoshi) - Personal finance assistant. *Use case: Manage budgets, accounts, and financial goals from chat.*
@@ -494,6 +535,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Little Caesars](https://littlecaesars.com) - Plan and place your order. *Use case: Pizza ordering and store lookup.*
 - [Love and Lemons](https://www.loveandlemons.com) - Find recipes and build meal plans. *Use case: Find recipes and plan meals.*
 - [NA Drink Finder](https://chatgpt.com/apps/na-drink-finder) - Non-alcoholic beverage discovery. *Use case: Find sober-friendly drinks, mocktails, and zero-proof options.*
+- [Order by Cash App](https://cash.app) - Order from nearby restaurants. *Use case: Order food from nearby restaurants using Cash App.*
 - [Popeyes](https://www.popeyes.com) - Find Popeyes store information. *Use case: Store locator and menu lookup.*
 - [Raptive Food](https://raptive.com) - Find recipes you can trust. *Use case: Curated recipes from Raptive's creator network.*
 - [Shipt](https://www.shipt.com) - Same-day grocery delivery. *Use case: Grocery and household delivery.*
@@ -509,14 +551,18 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Jotform](https://www.jotform.com) - Build forms, analyze responses. *Use case: Form creation, payment forms, and response workflows.*
 - [Neartail](https://chatgpt.com/apps/neartail) - Food order form builder. *Use case: Create order forms for restaurants, caterers, and pop-up vendors.*
 - [Refiner](https://chatgpt.com/apps/refiner) - Survey response analysis. *Use case: Surface themes and quotes from open-ended survey answers.*
+- [Weavely Forms & Surveys](https://weavely.ai) - Free Forms and Surveys. *Use case: Build conversational forms and surveys with AI assistance.*
 
 
 ## Government
 
+- [CLEATUS](https://chatgpt.com/apps/cleatus) - AI for Government Contracting. *Use case: AI assistant for navigating government contracting opportunities.*
 - [DC PASS Contracts](https://chatgpt.com/apps/dc-pass-contracts) - Search DC government contracts. *Use case: Discovering DC procurement opportunities and contract awards.*
 - [GovTribe](https://govtribe.com) - Search US gov contracts and bids. *Use case: Federal contracting opportunity research.*
 - [Medeloop Grants](https://medeloop.ai) - Find and apply for NIH grants. *Use case: NIH grant discovery and application support.*
+- [Municibid](https://www.municibid.com) - Find government auctions. *Use case: Browse and bid on government surplus auctions.*
 - [PolicyNote](https://chatgpt.com/apps/policynote) - Global policy and legislation search. *Use case: Search and track regulatory and policy developments worldwide.*
+- [Recreation.gov](https://www.recreation.gov) - Search and explore campsites. *Use case: Reserve federal campgrounds, permits, and outdoor recreation sites.*
 - [Sweetspot](https://chatgpt.com/apps/sweetspot) - Federal contracting opportunity search. *Use case: Find federal RFPs and contract opportunities matched to your business.*
 - [Znajdź Przetargi](https://chatgpt.com/apps/znajdz-przetargi) - Polish public tender search. *Use case: Search Polish public procurement tenders and contracts.*
 
@@ -525,13 +571,17 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 
 - [Achieve Harmony](https://chatgpt.com/apps/achieve-harmony) - Guided breathing widget. *Use case: Paced-breathing sessions for calming and focus.*
 - [BODi](https://www.bodi.com) - Find your best workout plan. *Use case: Workout plan and fitness program discovery.*
+- [Caliber](https://caliberstrong.com) - Analyze your fitness data. *Use case: AI-driven strength training plans and fitness analytics.*
 - [Calorie Tracker](https://chatgpt.com/apps/calorie-tracker) - Track food and calories in chat. *Use case: Logging meals and monitoring daily calorie intake.*
 - [ChefPlan](https://chatgpt.com/apps/chefplan) - Plan recipes and track calories. *Use case: Track calories & recipes.*
 - [DrugBank](https://www.drugbank.com) - Drug intelligence, interactions, and pharmacology lookup. *Use case: Look up drug-drug interactions, mechanisms, pharmacokinetics, and FDA label data.*
 - [Habitify](https://www.habitify.me) - Build new habits and routines. *Use case: Habit tracking and routine building.*
 - [LiftTrack](https://chatgpt.com/apps/lifttrack) - Garmin-connected weightlifting tracker. *Use case: Log sets and reps from a watch into a unified strength training history.*
+- [Mental Health Tools](https://chatgpt.com/apps/mental-health-tools) - Learn mental health exercises. *Use case: Practice exercises and skills for mental wellness.*
 - [Motra](https://chatgpt.com/apps/motra) - AI personal trainer. *Use case: Generate workout plans and coaching tailored to your goals.*
 - [MyFitnessPal](https://www.myfitnesspal.com) - Nutrition tracking and meal planning. *Use case: Generate meal plans, recipes, and personalized nutrition guidance.*
+- [Parenting Hub](https://chatgpt.com/apps/parenting-hub) - Baby food and care answers. *Use case: Get research-backed answers to parenting and infant care questions.*
+- [Pearl Pet Care](https://chatgpt.com/apps/pearl-pet-care) - Vet-verified pet answers. *Use case: Get veterinarian-verified answers to pet health questions.*
 - [Pregnancy Progress](https://chatgpt.com/apps/pregnancy-progress) - Pregnancy week-by-week tracker. *Use case: See fetal development milestones and weekly updates.*
 - [Private MD Labs](https://chatgpt.com/apps/private-md-labs) - Direct-to-consumer lab testing. *Use case: Order and interpret blood and biomarker tests on your own.*
 - [SaveHealth](https://savehealth.com) - Prescription savings — up to 90% off retail. *Use case: Up to 90% savings on meds.*
@@ -546,6 +596,8 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 
 - [Asanify](https://chatgpt.com/apps/asanify) - Run payroll, leave, and HR workflows from chat. *Use case: Manage HR workflows.*
 - [Deel](https://www.deel.com) - Global HR, payroll, and contractor management. *Use case: Hiring contractors and full-time employees in 150+ countries with compliance and payroll handled.*
+- [Fritto Time Tracker](https://chatgpt.com/apps/fritto-time-tracker) - Track and approve work hours. *Use case: Time tracking and approval workflows for hourly teams.*
+- [Metaview](https://www.metaview.ai) - Analyze interview data. *Use case: AI-driven candidate interview analytics and notes.*
 - [Teamspective](https://teamspective.com) - Surface team-health and leadership insights. *Use case: Get leadership insights.*
 - [Workleap AI](https://chatgpt.com/apps/workleap-ai) - Team health and output analytics. *Use case: Explore team engagement, performance, and output metrics.*
 
@@ -565,9 +617,11 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Neptune Flood](https://neptuneflood.com) - Quote flood insurance. *Use case: Flood insurance quotes for homeowners.*
 - [OptimalCover](https://chatgpt.com/apps/optimalcover) - Independent pricing reference for insurance policies. *Use case: Independent Pricing Reference.*
 - [Pazy](https://www.pazy.es) - Find your funeral plan. *Use case: Funeral planning and final expense insurance.*
+- [Seguro Match](https://chatgpt.com/apps/seguro-match) - Compare insurance. *Use case: Insurance quote comparison across providers.*
 - [Simply Business](https://www.simplybusiness.com) - Find small business insurance. *Use case: Small business liability and BOP insurance.*
 - [SkyWatch.ai](https://chatgpt.com/apps/skywatch-ai) - Aircraft renter insurance. *Use case: Quote and bind insurance for renting an aircraft.*
 - [Steadily](https://chatgpt.com/apps/steadily) - Landlord insurance quoting. *Use case: Get rental property insurance quotes for landlords.*
+- [Travel Insurance Comparator](https://chatgpt.com/apps/travel-insurance-comparator) - Compare travel insurance. *Use case: Compare travel insurance policies side by side.*
 - [Tuio](https://tuio.com) - Get smart on home insurance. *Use case: Home insurance comparison.*
 - [VisitorsCoverage](https://chatgpt.com/apps/visitorscoverage) - Travel insurance quotes. *Use case: Quote and buy international travel and visitor medical insurance.*
 - [WeatherPromise](https://weatherpromise.com) - Get paid if it rains. *Use case: Trip weather insurance with payout on rain.*
@@ -575,9 +629,13 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 ## Jobs and Hiring
 
 - [Banana Bee](https://chatgpt.com/apps/banana-bee) - Discover virtual assistant services. *Use case: Finding and hiring vetted VAs for ongoing or one-off tasks.*
+- [Centene Careers](https://chatgpt.com/apps/centene-careers) - Explore Centene careers. *Use case: Find open roles across Centene Corporation.*
+- [ChristianaCare Careers](https://chatgpt.com/apps/christianacare-careers) - Find jobs at ChristianaCare. *Use case: Search open positions at ChristianaCare health system.*
 - [Consultant.dev](https://chatgpt.com/apps/consultant-dev) - Find consulting assignments. *Use case: Discovering and matching consultants to project-based work.*
 - [CVpop](https://chatgpt.com/apps/cvpop) - CV builder for your dream job. *Use case: Drafting and tailoring CVs for specific roles.*
+- [DriveTime Careers](https://chatgpt.com/apps/drivetime-careers) - Explore DriveTime careers. *Use case: Find open roles at DriveTime Automotive.*
 - [Experteer](https://www.experteer.com) - Executive and leadership job marketplace. *Use case: Finding senior leadership and executive-track roles in Europe.*
+- [Great Clips Jobs](https://chatgpt.com/apps/great-clips-jobs) - Find and apply to jobs! *Use case: Find and apply to stylist positions at Great Clips salons.*
 - [Indeed](https://www.indeed.com) - Find jobs tailored for you. *Use case: Job search across employers and locations.*
 - [Job Search by Jobtome](https://chatgpt.com/apps/job-search-jobtome) - Job listings across 30+ countries. *Use case: Finding and applying to jobs across global markets.*
 - [Jobs by Wizehire](https://wizehire.com) - Wizehire-powered job search and apply. *Use case: Searching openings posted via the Wizehire ATS used by 18,000+ small businesses.*
@@ -587,6 +645,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Nejo](https://chatgpt.com/apps/nejo) - German job search assistant. *Use case: Search Stellenangebote and tailor applications for the German market.*
 - [Resume Builder](https://chatgpt.com/apps/resume-builder) - Resume analysis and refinement. *Use case: Tailor and polish your resume against a target job description.*
 - [Resume.io](https://www.resume.io) - Online resume builder. *Use case: Build, edit, and download a recruiter-ready resume in PDF or Word.*
+- [Ribbon](https://www.ribbon.ai) - Manage your candidate pipeline. *Use case: AI-powered candidate pipeline and recruiting workflow management.*
 - [Simera](https://www.simera.com) - Search and vet global job candidates. *Use case: Search job candidates.*
 - [SonicJobs](https://sonicjobs.com) - Find and apply to jobs. *Use case: Hourly and gig job search and application.*
 - [Thumbtack](https://www.thumbtack.com) - Hire local pros. *Use case: Local service professional discovery and booking.*
@@ -602,10 +661,12 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Fszk](https://chatgpt.com/apps/fszk) - Discover legal help. *Use case: Finding legal resources, attorneys, and self-help guidance.*
 - [LegalZoom](https://www.legalzoom.com) - Get legal info for business. *Use case: Business formation, contracts, and legal services.*
 - [Midpage Legal Research](https://www.midpage.ai) - AI legal research and drafting platform. *Use case: Search US case law, draft briefs, and run cite checks linked to real opinions.*
+- [neimo.](https://chatgpt.com/apps/neimo) - Regulatory research. *Use case: Regulatory and compliance research for legal teams.*
 - [Northwest Registered Agent](https://www.northwestregisteredagent.com) - Form LLCs and manage registered-agent services. *Use case: Form Your LLC and Identity.*
 - [Remedy Legal](https://chatgpt.com/apps/remedy-legal) - UK housing legal data search. *Use case: Find UK landlord/tenant legal data and case references.*
 - [Safe2Sign: Contract Risk Check](https://chatgpt.com/apps/safe2sign) - Contract red-flag scanner. *Use case: Spot risky clauses and red flags before signing an agreement.*
 - [Swyft Filings](https://chatgpt.com/apps/swyft-filings) - Business formation and registration. *Use case: Form an LLC or corporation and handle ongoing state filings.*
+- [Trademark Engine](https://www.trademarkengine.com) - Register USPTO trademarks. *Use case: File and manage US Patent and Trademark Office trademark applications.*
 
 ## Lifestyle and Local
 
@@ -619,6 +680,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [GS Plantfoods](https://chatgpt.com/apps/gs-plantfoods) - Organic plant care discovery. *Use case: Finding and using organic plant-care products and routines.*
 - [Here Comes The Guide](https://chatgpt.com/apps/here-comes-the-guide) - Wedding venue discovery. *Use case: Finding and comparing wedding venues by region and style.*
 - [Kactus](https://chatgpt.com/apps/kactus) - Corporate venue discovery. *Use case: Finding meeting rooms, event spaces, and corporate venues for offsites.*
+- [Lifestyle Helper](https://chatgpt.com/apps/lifestyle-helper) - Trusted tips for daily life. *Use case: Get curated daily lifestyle and habit tips.*
 - [Lots of Lotteries](https://chatgpt.com/apps/lots-of-lotteries) - Lottery results aggregator. *Use case: Check Powerball, Mega Millions, and state lotto results without leaving chat.*
 - [Lugg](https://lugg.com) - On-demand movers and trucks. *Use case: Same-day moving and delivery help.*
 - [Paardplaats Horse Finder](https://www.paardplaats.nl) - Horse marketplace search. *Use case: Find horses for sale worldwide by breed, discipline, and price.*
@@ -640,6 +702,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [BlueConic Solutions Finder](https://www.blueconic.com) - Find the marketing growth play. *Use case: CDP-driven growth opportunity discovery.*
 - [Brand24](https://brand24.com) - Analyze online discussions. *Use case: Social listening and brand mention monitoring.*
 - [Channel99](https://www.channel99.com) - B2B GTM intelligence and attribution. *Use case: Account identification, multi-touch attribution with ML, audience activation across LinkedIn and Google for B2B marketers.*
+- [Cleverbridge NEW](https://www.cleverbridge.com) - Talk with your business data. *Use case: AI access to SaaS subscription billing and ecommerce data.*
 - [CloudX](https://chatgpt.com/apps/cloudx) - Manage mobile ad inventory and monetization. *Use case: Manage mobile ad monetization.*
 - [Conductor](https://www.conductor.com) - Analyze your brand in AI. *Use case: SEO and brand visibility in AI-driven search.*
 - [Crayon](https://crayon.co) - Real-time competitive intelligence platform. *Use case: Automated competitor tracking, daily intel summaries, sales-team enablement against named competitors.*
@@ -651,6 +714,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [HubProsper](https://chatgpt.com/apps/hubprosper) - HubSpot optimization. *Use case: Auditing and improving HubSpot setup, workflows, and reporting.*
 - [Intuit Mailchimp](https://mailchimp.com) - Create marketing campaigns. *Use case: Email and SMS marketing campaign creation.*
 - [Klaviyo](https://www.klaviyo.com) - Get insights on your marketing. *Use case: Ecommerce email and SMS marketing analytics.*
+- [KODE.link](https://kode.link) - Manage your link-in-bio page. *Use case: Creator link-in-bio page management.*
 - [Kopi - Shopify Email Creator](https://chatgpt.com/apps/kopi-shopify-email-creator) - HTML marketing email design for Shopify. *Use case: Designing transactional and campaign emails for Shopify stores.*
 - [Linkly URL Shortener](https://linklyhq.com) - URL shortener for marketers. *Use case: Branded short links with click tracking.*
 - [Linktree](https://linktr.ee) - Find creators on Linktree. *Use case: Creator link-in-bio discovery.*
@@ -668,6 +732,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [ShareThis AI](https://sharethis.com) - Manage ShareThis sharing widgets and reporting. *Use case: Manage your ShareThis account.*
 - [SmartCustomer](https://chatgpt.com/apps/smartcustomer) - Business reviews and ratings lookup. *Use case: Surface customer-feedback signals on local businesses.*
 - [SubscriptionFlow](https://subscriptionflow.com) - Manage subscriptions with AI. *Use case: Subscription billing and lifecycle management.*
+- [Tropic](https://www.tropicapp.io) - Save money on Software + AI. *Use case: SaaS and AI procurement intelligence with vendor negotiation.*
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Find keywords and SEO insights. *Use case: Keyword research and content ideation.*
 - [upword](https://chatgpt.com/apps/upword) - Brand citation tracking in AI tools. *Use case: Track when client brands are cited or surfaced in AI assistants.*
 - [vidIQ](https://vidiq.com) - YouTube channel analytics and keyword research. *Use case: Find trending keywords and optimize YouTube videos for discovery.*
@@ -682,6 +747,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Le Parisien](https://www.leparisien.fr) - Access to reliable news. *Use case: French news and current events.*
 - [MT Newswires](https://www.mtnewswires.com) - Real-time financial news. *Use case: Real-time financial newswire.*
 - [Newsify](https://newsify.co) - RSS-style news reader and feed aggregator. *Use case: Follow trending news from any country in a customizable reader layout.*
+- [The Economist - Graphs](https://www.economist.com) - Polls, charts & insights. *Use case: Browse The Economist's data visualizations and polling charts.*
 
 ## Notes and Knowledge
 
@@ -701,8 +767,10 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Granola](https://www.granola.ai) - Add your meeting context. *Use case: AI meeting notes that augment your manual notes.*
 - [Hjarni](https://chatgpt.com/apps/hjarni) - Notes that act as your AI's memory. *Use case: Persisting personal notes that AI assistants can recall across conversations.*
 - [HumanCopy](https://chatgpt.com/apps/humancopy) - Rewrite AI text naturally. *Use case: Humanizing AI-generated content to read more naturally.*
+- [Kiuwo](https://chatgpt.com/apps/kiuwo) - Create and view mind maps. *Use case: Build and explore visual mind maps.*
 - [MeetGeek](https://meetgeek.ai) - Search and summarize meeting transcripts. *Use case: Search meeting transcripts.*
 - [Mem](https://get.mem.ai) - Save and search notes and meetings. *Use case: AI-organized notes and meeting transcript search.*
+- [MindMap](https://chatgpt.com/apps/mindmap) - Create mind map diagrams. *Use case: Generate mind map diagrams from topics or notes.*
 - [NoteItHub](https://chatgpt.com/apps/noteithub) - Chat-to-notes and task extractor. *Use case: Turn long conversations into structured notes and action items.*
 - [Notion](https://www.notion.so) - Create docs, tasks, databases. *Use case: Notes, docs, databases, and team wikis.*
 - [Nuwa](https://chatgpt.com/apps/nuwa) - Handwritten notes search and chat. *Use case: Query and discuss your handwritten notebooks as if they were typed.*
@@ -715,6 +783,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Sider Recorder & Transcriber](https://sider.ai/meeting-recorder) - Record, transcribe, summarize. *Use case: Meeting recording, transcription, and summarization.*
 - [Spinach AI](https://www.spinach.ai) - Meeting notes search. *Use case: Search across past meeting summaries, transcripts, and action items.*
 - [Truffle Journal](https://chatgpt.com/apps/truffle-journal) - Insight capture and search. *Use case: Save sparks of insight and surface them in context later.*
+- [Voicenotes](https://voicenotes.com) - Interact with your Voicenotes. *Use case: Capture and interact with personal voice notes via AI.*
 - [Xmind](https://xmind.com) - Mind mapping and brainstorming tool. *Use case: Organize ideas with mind maps, timelines, and matrices.*
 
 ## Presentations
@@ -723,7 +792,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Beautiful.ai](https://www.beautiful.ai) - Turn ideas into presentations. *Use case: AI-generated and template-driven presentations.*
 - [Gamma](https://gamma.app) - Create presentations and docs. *Use case: AI-generated decks, docs, and webpages.*
 - [Genspark AI Slides](https://www.genspark.ai) - Professional presentations. *Use case: AI-generated professional decks.*
-- [SlidesGPT](https://slidesgpt.com) - Make presentations and slides. *Use case: GPT-driven slide deck generation.*
+- [Agentic Slides by SlidesGPT](https://slidesgpt.com) - Make presentations and slides. *Use case: GPT-driven slide deck generation.*
 
 
 ## Project Management
@@ -742,9 +811,10 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Monday.com](https://monday.com) - Manage work in monday.com. *Use case: Work OS for cross-functional projects.*
 - [MotionHub](https://chatgpt.com/apps/motionhub) - Workspace control connector. *Use case: Manage MotionHub projects and tasks via chat.*
 - [Perdoo](https://www.perdoo.com) - OKR and goal management platform. *Use case: Draft and track strategic pillars, OKRs, and KPIs with AI assistance.*
+- [Planning Center](https://www.planningcenter.com) - Interact with your church data. *Use case: Manage church operations, services, and member data.*
 - [Priority Guardian](https://chatgpt.com/apps/priority-guardian) - Goal protection assistant. *Use case: Surface and block calendar threats to your top priorities.*
 - [Profit.co](https://www.profit.co) - OKR and performance management platform. *Use case: Track OKRs, KPIs, and team progress with strategy execution tools.*
-- [Quo App](https://chatgpt.com/apps/quo-app) - Turn meeting conversations into tracked action items. *Use case: Turn conversations into action.*
+- [Quo](https://chatgpt.com/apps/quo-app) - Turn conversations into action. *Use case: Turn meeting conversations into tracked action items.*
 - [Resource Allocation](https://chatgpt.com/apps/resource-allocation) - Team capacity planning. *Use case: Match people to projects based on skills and availability.*
 - [Rhythms](https://chatgpt.com/apps/rhythms) - AI strategy and operations cadence. *Use case: Run weekly business reviews and operating cadences with AI prompts.*
 - [RoadOps](https://chatgpt.com/apps/roadops) - Roadmap planning and execution. *Use case: Plan, share, and execute roadmaps with cross-functional teams.*
@@ -759,17 +829,20 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [AnyMortgageCalculator](https://chatgpt.com/apps/anymortgagecalculator) - Mortgage payment calculator. *Use case: Estimating monthly mortgage payments and amortization.*
 - [Apartment List](https://www.apartmentlist.com) - Free apartment-search service with 6M+ rental units. *Use case: Personalized rental matching, affordability tools, rent-comparison data for renters.*
 - [atHome](https://www.athome.lu) - Luxembourg's leading real estate portal. *Use case: Searching properties to buy or rent across Luxembourg and the Greater Region.*
+- [Barfoot & Thompson Homes](https://www.barfoot.co.nz) - NZ real estate experts. *Use case: Search New Zealand homes for sale and rent.*
+- [Bayut](https://www.bayut.com) - Find homes in the UAE. *Use case: UAE real estate marketplace for buy and rent.*
 - [Buy Or Rent Simulator](https://chatgpt.com/apps/buy-or-rent-simulator) - Compare buying versus renting a home. *Use case: Modeling buy-vs-rent financial outcomes over time horizons.*
 - [Cottages](https://www.cottages.com) - Discover UK holiday cottages. *Use case: UK holiday cottage rentals.*
 - [Daft.ie](https://www.daft.ie) - Irish property marketplace. *Use case: Searching properties for sale and rent across Ireland.*
 - [Emlakjet](https://chatgpt.com/apps/emlakjet) - Turkish real estate search. *Use case: Searching and filtering Turkish properties for sale and rent.*
 - [Figaro Immobilier](https://immobilier.lefigaro.fr) - French real estate property listings. *Use case: Searching apartments and houses for sale or rent across France.*
+- [Flameco Group](https://chatgpt.com/apps/flameco-group) - Discover sustainable materials. *Use case: Find sustainable building materials and architectural finishes.*
 - [Fotocasa](https://www.fotocasa.es) - Find properties to buy or rent. *Use case: Spanish property marketplace.*
 - [GoToAppraiser](https://chatgpt.com/apps/gotoappraiser) - Real estate property valuation. *Use case: Generating quick property valuation estimates.*
+- [GREI](https://chatgpt.com/apps/grei) - Global property insights. *Use case: Pull global real estate market data and property insights.*
 - [Greystar Apartment Scout](https://www.greystar.com) - Search 1M+ Greystar apartments. *Use case: Browsing and inquiring on Greystar-managed apartments and homes for rent across 891 cities.*
 - [hepsiemlak](https://www.hepsiemlak.com) - Find your home with ease. *Use case: Turkish real estate marketplace.*
 - [HouseToSpot](https://chatgpt.com/apps/housetospot) - Find properties faster. *Use case: Streamlined property search with smart filters.*
-- [Housing.com](https://housing.com) - Finding a home, made easy. *Use case: Indian real estate marketplace.*
 - [idealista](https://www.idealista.com) - Find properties to buy or rent. *Use case: Spanish, Italian, and Portuguese property marketplace.*
 - [Imovirtual](https://www.imovirtual.com) - Find real estate in Portugal. *Use case: Portuguese real estate marketplace.*
 - [Jana Concierge](https://chatgpt.com/apps/jana-concierge) - Connect with rental management. *Use case: Coordinating with rental property managers and concierges.*
@@ -782,6 +855,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [MyRegistry.com](https://www.myregistry.com) - All stores, one registry. *Use case: Universal gift registry across stores.*
 - [Nashville Real Estate AI](https://chatgpt.com/apps/nashville-real-estate-ai) - Nashville-area real estate assistant. *Use case: Help Nashville agents pull listings, comps, and client follow-ups faster.*
 - [Neighbor](https://www.neighbor.com) - Peer-to-peer storage and parking marketplace. *Use case: Rent out unused garage, driveway, or storage space.*
+- [Public Storage](https://www.publicstorage.com) - Find self-storage space units. *Use case: Find and rent self-storage units across the US.*
 - [QuintoAndar](https://www.quintoandar.com.br) - Find your ideal home. *Use case: Brazilian rental and home marketplace.*
 - [Rabbu](https://chatgpt.com/apps/rabbu) - Short-term rental property search. *Use case: Find Airbnb-ready investment properties with revenue projections.*
 - [realestate.com.au](https://www.realestate.com.au) - Search Australian property. *Use case: Australian property search.*
@@ -799,8 +873,10 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 ## Research and Academic
 
 - [Agora](https://chatgpt.com/apps/agora) - Verify claims from AI debates. *Use case: Fact-checking and verification of claims surfaced during multi-agent or AI-generated debates.*
+- [Amass](https://chatgpt.com/apps/amass) - Search biomedical evidence. *Use case: Search and synthesize biomedical research evidence.*
 - [BioRender](https://www.biorender.com) - Scientific figure software with editable templates and icons. *Use case: Building publication-quality scientific figures, graphical abstracts, pathway diagrams.*
 - [Consensus](https://consensus.app) - Explore scientific research. *Use case: AI-powered scientific literature synthesis.*
+- [Elicit](https://elicit.com) - Search scientific literature. *Use case: AI research assistant for evidence-based literature review.*
 - [Guidepoint](https://www.guidepoint.com) - On-demand expert network with 1.6M+ industry advisors. *Use case: Sourcing 1:1 expert calls, scalable surveys, and curated transcripts for institutional research.*
 - [Innovist](https://chatgpt.com/apps/innovist) - Clean and transparent science. *Use case: Accessing transparently sourced scientific information.*
 - [NyquistAI](https://chatgpt.com/apps/nyquistai) - FDA medical device intelligence. *Use case: Surface latest 510(k) clearances, recalls, and device information from FDA records.*
@@ -809,12 +885,14 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [SciSpace](https://typeset.io) - Get help with research tasks. *Use case: Paper reading, summarization, and writing assistance.*
 - [Scite](https://scite.ai) - Answers grounded in science. *Use case: Smart Citations classifying supporting vs contrasting evidence.*
 - [Sider Scholar](https://sider.ai/scholar) - Search 350M+ papers. Save. Chat. *Use case: Scholarly search, save, and chat with papers.*
+- [Tailo Lens](https://chatgpt.com/apps/tailo-lens) - Support your research journey. *Use case: Research-companion tool for academic literature.*
 
 
 ## Retail and Shopping
 
 - [1800Flowers](https://www.1800flowers.com) - Shop flowers and gifts. *Use case: Flower and gift delivery.*
 - [Appy Coupons](https://chatgpt.com/apps/appy-coupons) - Find coupons in chat. *Use case: Discovering active coupon codes and deals while shopping online.*
+- [ASOS Stylist](https://chatgpt.com/apps/asos-stylist) - Shop from hundreds of brands. *Use case: AI-driven outfit recommendations across hundreds of ASOS brands.*
 - [Basbas](https://chatgpt.com/apps/basbas) - Browse artisan goods and scents. *Use case: Discovering and shopping for handcrafted goods and fragrances.*
 - [Bonfire](https://www.bonfire.com) - Custom merch and apparel design platform. *Use case: Designing and selling custom t-shirts, hoodies, and merch with no inventory required.*
 - [C.FLIP](https://chatgpt.com/apps/cflip) - Personal AI shop clerk. *Use case: Personalized shopping assistance and product recommendations.*
@@ -828,7 +906,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Gathrd](https://chatgpt.com/apps/gathrd) - Shop, save, and track products. *Use case: Tracking product prices and saving items across stores.*
 - [Guyal](https://chatgpt.com/apps/guyal) - Everyday jewelry shopping. *Use case: Browsing and buying everyday jewelry pieces.*
 - [Hibbett](https://chatgpt.com/apps/hibbett) - Sneakers, apparel, and athletic gear. *Use case: Shopping branded sneakers, sportswear, and gear from Hibbett.*
-- [Klarna Shopping Search](https://www.klarna.com) - Find products, compare prices. *Use case: Cross-merchant shopping and price comparison.*
+- [JapanBox.kz](https://japanbox.kz) - Shop Japan via chat. *Use case: Shop Japanese products and ship to Kazakhstan.*
 - [Kleinanzeigen](https://www.kleinanzeigen.de) - Echte Deals. Echte Menschen. *Use case: German classifieds marketplace.*
 - [Kokiko](https://chatgpt.com/apps/kokiko) - Beauty product discovery. *Use case: Finding skincare and beauty products fast.*
 - [Landwirt.com](https://chatgpt.com/apps/landwirt) - Agricultural machinery marketplace. *Use case: Finding new and used agricultural equipment for sale.*
@@ -849,11 +927,14 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Shop](https://shop.app) - All your favorite brands. *Use case: Shopify-powered product discovery and tracking.*
 - [ShopBack](https://www.shopback.com) - Cashback and rewards platform. *Use case: Earn cashback on purchases across thousands of stores.*
 - [Shopify](https://www.shopify.com) - Build and manage your store. *Use case: Ecommerce store building and management.*
+- [Syncee AI Dropship & Wholesale](https://syncee.com) - Explore dropshipping products. *Use case: Find dropshipping and wholesale products for ecommerce stores.*
 - [Systembolaget](https://www.systembolaget.se) - Find products and stores. *Use case: Swedish state alcohol retailer product search.*
 - [Target](https://www.target.com) - Style, decor, beauty, and more. *Use case: Retail product search and pickup.*
 - [The Derma Co](https://thedermaco.com) - Shop skin and hair care from The Derma Co. *Use case: Shop skin & hair care products.*
 - [Tillys](https://www.tillys.com) - Shop clothing, shoes, accessories. *Use case: Youth lifestyle apparel shopping.*
 - [Tonita](https://tonita.co) - Apparel and accessories search. *Use case: Apparel discovery across brands.*
+- [Trocafone](https://www.trocafone.com) - Find pre-owned smartphones. *Use case: Buy and sell refurbished smartphones.*
+- [Trovaprezzi.it](https://www.trovaprezzi.it) - Confronta prezzi prodotti. *Use case: Italian product price-comparison shopping engine.*
 - [United Rentals](https://www.unitedrentals.com) - Construction equipment rentals. *Use case: Find and reserve construction equipment for jobsites.*
 - [Walmart](https://www.walmart.com) - Big-box retailer with online shopping. *Use case: Shop groceries and household goods at everyday low prices.*
 - [Yapay Zeka'nın Boyner'i](https://chatgpt.com/apps/boyner) - Boyner Turkish fashion shopping. *Use case: Browse and shop Boyner fashion in Turkish.*
@@ -904,6 +985,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Angler Adventures: Lure Guide](https://chatgpt.com/apps/angler-adventures-lure-guide) - Match lures to lake conditions. *Use case: Recommending fishing lures based on water conditions, target species, and season.*
 - [FootChatBall](https://chatgpt.com/apps/footchatball) - Football league tables and matches. *Use case: Looking up standings, fixtures, and match results across football leagues.*
 - [Freediver](https://chatgpt.com/apps/freediver) - Freediving training planner. *Use case: Building and tracking freediving training programs.*
+- [onX Offroad](https://www.onxmaps.com/offroad/app) - Find offroad trails. *Use case: Discover and navigate offroad trails for 4x4, ATV, and overlanding.*
 - [PGA – Play Golf](https://www.pga.com) - Find a golf coach. *Use case: PGA professional and lesson discovery.*
 - [RunReady](https://chatgpt.com/apps/runready) - Race pacing and strategy planner. *Use case: Build pacing plans for marathons and other races based on goals and conditions.*
 - [Savecraft](https://chatgpt.com/apps/savecraft) - Goalkeeper save analysis and coaching. *Use case: Analyze save patterns and refine training drills for goalies.*
@@ -917,6 +999,8 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 
 - [AT&T](https://www.att.com) - Find internet deals and plans. *Use case: AT&T internet and wireless plan lookup.*
 - [broadbandnow.com](https://broadbandnow.com) - Compare local internet providers and plans. *Use case: Checking ISP availability by address, comparing speeds and pricing, finding broadband options in your area.*
+- [eSIM Copilot](https://chatgpt.com/apps/esim-copilot) - Buy and manage eSIMs. *Use case: Browse and purchase eSIM data plans for travel.*
+- [Simbye](https://simbye.com) - Find travel eSIM plans. *Use case: Compare and buy travel eSIM data plans.*
 - [Texas Electricity Plans](https://www.texaselectricityplans.com) - Find a plan for your home. *Use case: Texas deregulated electricity plan comparison.*
 - [Updater Internet Store](https://updater.com) - Find internet and TV plans. *Use case: ISP and TV plan comparison for movers.*
 
@@ -964,7 +1048,9 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Direct Ferries](https://www.directferries.com) - Ferry ticket comparison and booking. *Use case: Comparing ferry routes, operators, and prices across Europe and beyond.*
 - [DirectBooker](https://www.directbooker.com) - Direct hotel booking comparison. *Use case: Comparing hotel rates and booking directly with the property to skip OTA fees.*
 - [EaseMyTrip](https://www.easemytrip.com) - Indian flights, hotels, and travel marketplace. *Use case: Booking flights, hotels, and holiday packages across India.*
+- [EconomyBookings](https://www.economybookings.com) - Search car rentals worldwide. *Use case: International car rental price comparison.*
 - [eDreams](https://www.edreams.com) - Find the best deals on flights. *Use case: European flight booking.*
+- [EF Ultimate Break](https://www.efultimatebreak.com) - Find group travel for 18-35s. *Use case: Group travel tours for adults aged 18-35.*
 - [Expedia](https://www.expedia.com) - Plan trips, flights, and hotels. *Use case: Full-stack trip planning and booking.*
 - [FareHarbor](https://fareharbor.com) - Find tours and activities. *Use case: Tour and activity operator booking.*
 - [Ferryhopper](https://www.ferryhopper.com) - Ferry route search and booking. *Use case: Finding and booking ferry tickets across Mediterranean and European routes.*
@@ -1022,7 +1108,6 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [trivago](https://www.trivago.com) - Find your ideal hotel. *Use case: Hotel meta-search.*
 - [TUI](https://www.tui.com) - Find hotels and experiences. *Use case: European package holiday booking.*
 - [Turkish Airlines](https://www.turkishairlines.com) - Flag carrier of Türkiye for booking and trip management. *Use case: Book flights and manage Miles&Smiles trips with Turkish Airlines.*
-- [Uber](https://www.uber.com) - Ride price and ETA estimates. *Use case: Rideshare price and ETA lookup.*
 - [Valpas Hotels](https://chatgpt.com/apps/valpas-hotels) - Bed-bug-free hotel search. *Use case: Book hotels certified bed-bug-free for peace of mind.*
 - [Viator](https://www.viator.com) - Tours and activities booking. *Use case: Find and book guided tours, day trips, and experiences worldwide.*
 - [Vio.com](https://www.vio.com) - Booking hotels and travel deals. *Use case: Hotel deal aggregator.*
@@ -1030,6 +1115,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Wanderu](https://www.wanderu.com) - US bus and train ticket comparison. *Use case: Search and book bus and train trips across the US and Europe.*
 - [Wanderz](https://chatgpt.com/apps/wanderz) - Authentic-trip planner and booking. *Use case: Plan and book off-the-beaten-path travel itineraries.*
 - [Wego](https://www.wego.com) - Compare flights and hotels. *Use case: Middle East and Asia travel meta-search.*
+- [World Airfares](https://chatgpt.com/apps/world-airfares) - Search flights, tap to book. *Use case: Global flight search and booking.*
 - [Wyndham Hotels & Resorts](https://www.wyndhamhotels.com) - Book thousands of hotels. *Use case: Wyndham hotel booking and loyalty.*
 - [Yango](https://chatgpt.com/apps/yango) - Ride-hailing fare lookup. *Use case: Get Yango fare estimates and ride options in supported cities.*
 
@@ -1043,8 +1129,10 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Any Exchange Rate](https://chatgpt.com/apps/any-exchange-rate) - Quick currency conversions. *Use case: Looking up live exchange rates between any two currencies.*
 - [AnyBarcodeScanner](https://chatgpt.com/apps/anybarcodescanner) - Scan and discuss product barcodes. *Use case: Looking up product info from a scanned UPC or EAN code.*
 - [AnyQR](https://chatgpt.com/apps/anyqr) - Generate QR codes. *Use case: Creating QR codes for URLs, contact info, or arbitrary text.*
+- [AnyWhereMap](https://chatgpt.com/apps/anywheremap) - Use maps with ChatGPT! *Use case: Browse and reference maps directly inside chat.*
+- [Charge Atlas](https://chatgpt.com/apps/charge-atlas) - Find EV chargers worldwide. *Use case: Locate EV charging stations worldwide by network and connector type.*
 - [Crbonfree](https://chatgpt.com/apps/crbonfree) - Estimate and offset CO2 emissions. *Use case: Calculating personal carbon footprint and purchasing offsets.*
-- [Domotz (Preview)](https://www.domotz.com) - Monitor and manage networks. *Use case: Network monitoring and remote management.*
+- [Domotz](https://www.domotz.com) - Monitor and manage networks. *Use case: Network monitoring and remote management.*
 - [Facile.it Energia](https://www.facile.it) - Compare gas and electricity offers in Italy. *Use case: Compare energy offers in Italy.*
 - [GoDaddy](https://www.godaddy.com) - Find your dream domain. *Use case: Domain search and registration.*
 - [Ladder Pick](https://chatgpt.com/apps/ladder-pick) - Decision-making with a ladder of options. *Use case: Letting a structured ladder make decisions across choices.*
@@ -1069,7 +1157,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [invideo](https://invideo.io) - Create videos of any length. *Use case: AI video generation and editing.*
 - [Jam](https://jam.dev) - Screen record with context. *Use case: Bug-report screen recording with full debug context.*
 - [TalkGen](https://chatgpt.com/apps/talkgen) - AI talking avatar generator. *Use case: Create avatar-narrated videos from a script.*
-- [VEED Fabric](https://www.veed.io) - AI talking video generator. *Use case: AI talking-head and faceless video generation.*
+- [VEED](https://www.veed.io) - Generate AI Videos. *Use case: AI talking-head and faceless video generation.*
 - [VideoZero](https://chatgpt.com/apps/videozero) - Generate narrated 2D explainer videos. *Use case: Generate narrated 2D videos.*
 - [Visla Video Maker](https://chatgpt.com/apps/visla-video-maker) - Narrated video generator. *Use case: Generate narrated videos from a brief or script.*
 
