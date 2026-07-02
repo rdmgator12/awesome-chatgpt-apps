@@ -2,7 +2,7 @@
 
 > Third-party integrations that run inside ChatGPT via OpenAI's Apps SDK.
 
-**Last updated:** June 26, 2026 | **Total apps:** 1,623 | **Connectors:** 14 | **Categories:** 44
+**Last updated:** July 2, 2026 | **Total apps:** 1,624 | **Connectors:** 14 | **Categories:** 44
 
 ChatGPT apps are verified integrations built on OpenAI's [Apps SDK](https://platform.openai.com/docs/apps-sdk) — an MCP-based protocol that lets developers extend ChatGPT with real-time access to external tools, data, and services. Apps work in chat as inline tools with custom UI, with discovery surfaced in chatgpt.com/apps.
 
@@ -13,11 +13,11 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 > This is an independent, community-maintained list. Not affiliated with, endorsed by, or sponsored by OpenAI. "ChatGPT" and related marks are the property of OpenAI. Each app is the property of its respective owner.
 
 > [!TIP]
-> ### App of the Week - June 26, 2026
+> ### App of the Week - July 2, 2026
 >
-> **[BigQuery](https://cloud.google.com/bigquery)** · *Connectors*
+> **Square** · *Food and Delivery*
 >
-> The pick from this sweep — the largest yet, which roughly doubled the directory (979 → 1,623 apps) and, most notably, brought OpenAI's own first-party connectors into the catalog. BigQuery is the clearest example: it lets ChatGPT run SQL directly against your warehouse — querying datasets, tables, and jobs — and pull the results into chat, turning the assistant into a front-end over your own data rather than a chat layer on a public dashboard. It landed alongside `ChatGPT Ads Manager` (create and adjust ad campaigns and read conversion metrics in chat) and `Intercom` (pull a customer's prior conversations and ticket history), the other two first-party connectors this round. The broader signal: the directory is no longer a curated showcase of a few hundred apps but a long-tail marketplace spanning regional retail, travel, real estate, and finance across a dozen languages. Honorable mentions from the sweep: `Interactive Brokers (IBKR)` (brokerage data and trading), `Zoom`, and `Uber`.
+> The first major payments/POS platform to land in the directory, and the clearest agentic-commerce milestone yet: ChatGPT users can discover a restaurant, browse its live menu, and place an order that routes straight into the seller's existing Square Online Ordering and POS — with zero added marketplace commission, a direct shot at delivery-platform economics. US Square F&B sellers with active Online Ordering are auto-opted-in; ordering runs through Order by Cash App. Square shipped a Claude plugin the same day and says Alexa+ is next, while joining the AAIF/W3C/UCP agentic-commerce standards groups — the POS layer positioning itself as neutral rails under every assistant. Launched July 1, 2026 ([Square press release](https://squareup.com/us/en/press/claude-chatgpt-integrations)). Listed under Food and Delivery below.
 
 ---
 
@@ -316,7 +316,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 
 - [Aira](https://chatgpt.com/apps/aira/asdk_app_6a18c052aaa881919f0066e4e62f3a79) - Review receptionist call logs. *Use case: Review and summarize calls handled by your virtual receptionist.*
 - [CALL-E](https://airudder.com/botlab) - Make phone calls for you. *Use case: Outbound voice agents for verification and routine calls.*
-- [Fathom](https://fathom.ai) - Meeting recording, transcription, and AI summaries. *Use case: Automatic Zoom/Meet/Teams call recording, AI summaries, action-item extraction, CRM sync.*
+- [Fathom](https://chatgpt.com/apps/fathom/asdk_app_69d88b99c5c481918e8da9225737e1e9) - Meeting recording, transcription, and AI summaries. *Use case: Automatic Zoom/Meet/Teams call recording, AI summaries, action-item extraction, CRM sync.*
 - [Fireflies](https://fireflies.ai) - Meeting transcription and search. *Use case: Searching across meeting transcripts, extracting decisions and action items, AI-generated summaries.*
 - [Fyxer](https://fyxer.com) - Write emails in your voice. *Use case: AI email assistant matching personal tone.*
 - [Hostinger Mail](https://chatgpt.com/apps/hostinger-mail/asdk_app_6a323a8a890c819190480c9044395170) - Hostinger email service. *Use case: Read and manage your Hostinger email inbox from ChatGPT.*
@@ -821,6 +821,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Raptive Food](https://raptive.com) - Find recipes you can trust. *Use case: Curated recipes from Raptive's creator network.*
 - [Shipt](https://www.shipt.com) - Same-day grocery delivery. *Use case: Grocery and household delivery.*
 - [Spaartje](https://chatgpt.com/apps/spaartje) - Grocery price comparison. *Use case: Compare grocery prices across supermarkets to save on weekly shop.*
+- [Square](https://squareup.com) - Restaurant discovery, menu browsing, and direct ordering routed into sellers' Square POS. *Use case: Find a restaurant, browse its live menu, and place an order (via Order by Cash App) that lands in the seller's existing Square Online Ordering — no added marketplace commission. US Square F&B sellers; launched July 1, 2026.*
 - [Starbucks](https://www.starbucks.com) - Find your new favorite drink. *Use case: Drink discovery and store lookup.*
 - [The Herdsman Market](https://chatgpt.com/apps/the-herdsman-market/asdk_app_6a07552d89ac8191986fb0de28363a7b) - Specialty food market. *Use case: Browse the market's food offerings and place an order.*
 - [Tim Hortons](https://www.timhortons.com) - Coffee and donut chain locator and ordering. *Use case: Find Tim Hortons locations and order coffee or food.*
@@ -870,7 +871,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Caliber](https://caliberstrong.com) - Analyze your fitness data. *Use case: AI-driven strength training plans and fitness analytics.*
 - [Calorie Tracker](https://chatgpt.com/apps/calorie-tracker) - Track food and calories in chat. *Use case: Logging meals and monitoring daily calorie intake.*
 - [ChefPlan](https://chatgpt.com/apps/chefplan) - Plan recipes and track calories. *Use case: Track calories & recipes.*
-- [DrugBank](https://www.drugbank.com) - Drug intelligence, interactions, and pharmacology lookup. *Use case: Look up drug-drug interactions, mechanisms, pharmacokinetics, and FDA label data.*
+- [DrugBank](https://chatgpt.com/apps/drugbank/asdk_app_69de842128008191a89b8568406633d9) - Drug intelligence, interactions, and pharmacology lookup. *Use case: Look up drug-drug interactions, mechanisms, pharmacokinetics, and FDA label data.*
 - [Face Yoga](https://chatgpt.com/apps/face-yoga/asdk_app_694486450ee48191947982ba68fbe34f) - Guided face yoga routines. *Use case: Follow a guided face yoga routine.*
 - [FitAI Pro](https://chatgpt.com/apps/fitai-pro/asdk_app_6a014275060c81919efb76bf2c381fbc) - Build workouts and log sets. *Use case: Build a workout and log your sets and reps.*
 - [Fitbod](https://chatgpt.com/apps/fitbod/asdk_app_695c64b1d0f08191a1b440a5329b8b95) - Personalized next-workout recommendations. *Use case: Get a personalized recommendation for your next workout.*
