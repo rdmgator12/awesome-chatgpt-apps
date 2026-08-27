@@ -1383,6 +1383,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 
 - [Agora](https://chatgpt.com/apps/agora) - Verify claims from AI debates. *Use case: Fact-checking and verification of claims surfaced during multi-agent or AI-generated debates.*
 - [Amass](https://chatgpt.com/apps/amass) - Search biomedical evidence. *Use case: Search and synthesize biomedical research evidence.*
+- [Audioscrape](https://www.audioscrape.com) - Search what's said in podcasts, public meetings, and your own recordings, with speaker attribution and timestamps. *Use case: Find the exact moment a guest made a claim across hundreds of episodes, pull every quote from a named speaker, or transcribe an uploaded interview and ask questions about it.*
 - [BioRender](https://www.biorender.com) - Scientific figure software with editable templates and icons. *Use case: Building publication-quality scientific figures, graphical abstracts, pathway diagrams.*
 - [Consensus](https://consensus.app) - Explore scientific research. *Use case: AI-powered scientific literature synthesis.*
 - [Elicit](https://elicit.com) - Search scientific literature. *Use case: AI research assistant for evidence-based literature review.*
