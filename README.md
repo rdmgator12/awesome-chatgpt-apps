@@ -609,8 +609,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [StraighterLine Degree Planner](https://www.straighterline.com) - Complete your college degree. *Use case: Affordable transferable college credit planning.*
 - [Studocu](https://chatgpt.com/apps/studocu/asdk_app_69b2c6b3ad4c8191abf6712a33280379) - Search study notes and create exams. *Use case: Find course notes and generate practice exams to study from.*
 - [StudyArena](https://chatgpt.com/plugins/plugin_asdk_app_6a8fd323aa6c8191ba835d7f6a76a770) - Compare multiple AI answers for one study question. *Use case: Getting side-by-side explanations for homework and writing feedback.*
-- [StudyMe.ai](https://chatgpt.com/apps/studyme-ai) - Generate interactive lessons from study material. *Use case: Create
-- interactive lessons.*
+- [StudyMe.ai](https://chatgpt.com/apps/studyme-ai) - Generate interactive lessons from study material. *Use case: Create interactive lessons.*
 - [Talents Kids](https://chatgpt.com/apps/talents-kids) - We Discover Geniuses. *Use case: Discover and develop talents in kids through guided activities.*
 - [The Princeton Review](https://www.princetonreview.com) - SAT prep from the experts. *Use case: Test prep and college admissions guidance from The Princeton Review.*
 - [Udemy](https://chatgpt.com/apps/udemy/asdk_app_695fe602c18c8191ba4db9079e660925) - Online course learning. *Use case: Find courses and turn your questions into new skills.*
