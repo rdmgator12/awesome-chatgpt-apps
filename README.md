@@ -1864,3 +1864,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - LLM apps with AI agents and RAG.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - Comprehensive list of Model Context Protocol servers.
 
+
+## Resume / ATS
+
+- [ResumeAI](https://withresumeai.com/) - Free ATS checker (3/day anonymous, 10/day free account) + open State of ATS 2026 (738 employers, 704 portal-verified; Workday 37.9%). Live candidate leaderboard is paid placement for visibility only — not pay-for-score / not pay-to-get-hired.
