@@ -1143,6 +1143,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Ranked AI](https://ranked.ai) - Manage your SEO and PPC. *Use case: AI-driven SEO and paid search management.*
 - [Rapid Wombat](https://chatgpt.com/apps/rapid-wombat/asdk_app_6a22e8488f9c81919a9dce090d6614cb) - SEO project overview. *Use case: Review the status and metrics of your SEO project.*
 - [SE Ranking](https://chatgpt.com/apps/se-ranking/asdk_app_6a0b262d5c0c8191953dd94ba05412e2) - SEO data and rank tracking. *Use case: Track keyword rankings and pull SEO data for a website you manage.*
+- [seenpaid](https://chatgpt.com/apps/seenpaid/asdk_app_6aa42b1b43d48191b359225b7ca0b10e) - Schedule social media posts to 21 platforms. *Use case: Draft a week of posts in ChatGPT and schedule them to X, LinkedIn, Bluesky and more.*
 - [Semrush](https://www.semrush.com) - Research keywords and traffic. *Use case: Keyword research, competitor traffic, and SEO.*
 - [seoClarity ArcAI](https://chatgpt.com/apps/seoclarity-arcai/asdk_app_69e0285a0acc8191a0164999249c22a9) - AI search visibility and insights. *Use case: Check how your brand appears in AI search results and get SEO recommendations.*
 - [Sequel.io](https://chatgpt.com/apps/sequel-io) - Webinar repurposing tool. *Use case: Turn webinar recordings into clips, posts, and on-demand content.*
