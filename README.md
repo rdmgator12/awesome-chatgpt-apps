@@ -444,7 +444,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [CI HUB](https://www.ci-hub.com) - All assets at a glance. *Use case: Digital asset management connector across creative tools.*
 - [Cloudinary](https://cloudinary.com) - Manage, modify, and host images and video. *Use case: Image and video CDN, transformations, asset management.*
 - [Color Designer](https://chatgpt.com/apps/color-designer/asdk_app_696e890a45388191b24c4a36d2177201) - Color scheme builder. *Use case: Build and refine color palettes for your design projects.*
-- [CreativeClaw](https://chatgpt.com/apps/creativeclaw/asdk_app_6a2528e2c49c8191a8015ba5475f177e) - Branded image and video creation. *Use case: Generate on-brand images and video clips from prompts.*
+- [Creative Claw](https://chatgpt.com/plugins/creativeclaw) - Generate video, images, and voiceovers, including a clone of your own voice. *Use case: Make product ads, UGC-style presenter clips, and short films with Seedance 2.5, Gemini Omni, and Nano Banana 2.*
 - [DepositPhotos](https://depositphotos.com) - Stock photos, vectors, and video library. *Use case: Licensing royalty-free creative assets for marketing, presentations, and content.*
 - [Design Zone](https://chatgpt.com/apps/design-zone/asdk_app_6a21b02e40d08191aa2e8634ad9e9fad) - Architecture and construction design. *Use case: Explore architecture and construction design ideas.*
 - [Figma](https://www.figma.com) - Make diagrams and slides. *Use case: Design files, FigJam diagrams, and slide creation.*
