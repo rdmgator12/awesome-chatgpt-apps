@@ -1838,6 +1838,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Wistia](https://chatgpt.com/apps/wistia/asdk_app_69bbf84283c88191a617487b95f3a895) - Manage video hosting and content. *Use case: Organize and manage your hosted video library.*
 
 ## Voice and Speech
+- [AI Group Call](https://aigroupcall.app) - You set a goal and two to eight AI voices run a round-table call with you: drop-ins, barge-in, and a written recap.
 
 - [AI Voice Generator](https://chatgpt.com/g/g-BZQxjc05w-ai-voice-generator) - Create AI voiceovers. *Use case: Generating voiceover audio from text.*
 - [Pathors](https://chatgpt.com/apps/pathors) - Voice AI agent builder. *Use case: Building and deploying production-ready voice agents for inbound and outbound calls.*
