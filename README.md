@@ -1130,6 +1130,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Lnk.Bio](https://lnk.bio) - Link-in-bio page builder for creators. *Use case: Manage one URL with multiple links from Instagram or TikTok bios.*
 - [Mapfry](https://chatgpt.com/apps/mapfry/asdk_app_6a1da9cd029081919edc5254ebb16ab0) - Map your business market fit. *Use case: Map where your business fits in its market and audience.*
 - [Markifact](https://markifact.ai/) - AI marketing automation platform for ad ops workflows. *Use case: Automating campaign reports, alerts, and optimizations across Google Ads, Meta, and GA4.*
+- [More Good Reviews](https://chatgpt.com/plugins/plugin_asdk_app_6a3699f00ba88191843d86aef525f03e) - Reputation management: review requests, review replies, and reputation reports. *Use case: Ask which reviews need a reply, draft responses, and send review requests to recent customers from chat.*
 - [Metricool for Social Media](https://metricool.com) - Review social analytics and plan posts. *Use case: Review analytics, plan posts.*
 - [Needle](https://chatgpt.com/apps/needle) - Social media research tool. *Use case: Surface trends, mentions, and creator insights across social platforms.*
 - [Nesha](https://chatgpt.com/apps/nesha) - B2B partner discovery. *Use case: Find suitable B2B partners, suppliers, or distributors by industry and region.*
