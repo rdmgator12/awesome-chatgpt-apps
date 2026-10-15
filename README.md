@@ -1202,6 +1202,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Contextli](https://chatgpt.com/apps/contextli/asdk_app_6a3aee29d9c48191885b42ba1f89a108) - Search your dictation notes. *Use case: Search and retrieve from your dictated voice notes.*
 - [Document360](https://chatgpt.com/apps/document360/asdk_app_6a27d8c19cd0819192c024710ccd05fc) - Manage knowledge base content. *Use case: Search, draft, and update articles in your knowledge base.*
 - [Dunzo - Task Assistant](https://chatgpt.com/apps/dunzo-task-assistant) - Task capture and management. *Use case: Quick task capture, organization, and follow-up tracking.*
+- [Eigma](https://chatgpt.com/plugins/plugin_asdk_app_6aa2cbe43cf481918d7e898329bf2dd6) - Personal wiki with spaced-repetition review. *Use case: Turn what you learned in a chat into wiki pages with recall questions, approve them in a review inbox, then review them on a spaced schedule.*
 - [Empirical](https://chatgpt.com/apps/empirical/asdk_app_699db5f04b788191a4f9ee070d3e5d67) - Personal memory and knowledge vault. *Use case: Save and recall personal notes and memories from a searchable vault.*
 - [Formula Genius](https://chatgpt.com/apps/formula-genius) - Excel, Sheets, SQL, and regex assistant. *Use case: Generating formulas and queries for spreadsheets, SQL, and pattern matching.*
 - [getMindmap](https://chatgpt.com/apps/getmindmap/asdk_app_699d94f12000819184b98ad62c60f52d) - Create mind maps from conversations. *Use case: Turn a chat thread into a structured visual mind map.*
