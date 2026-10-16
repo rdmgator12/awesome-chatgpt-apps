@@ -1265,6 +1265,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Business Strategy Builder](https://chatgpt.com/apps/business-strategy-builder/asdk_app_6975f7792ec08191934df92968f7d804) - Step-by-step business plan builder. *Use case: Build a structured business plan one guided step at a time.*
 - [Caipi](https://chatgpt.com/apps/caipi/asdk_app_6a30fe8c7da88191a4d5feacb465e3a2) - Agent-native team workspace. *Use case: Organize tasks and work in a workspace built for AI agents.*
 - [Canny](https://canny.io) - Customer feedback and product roadmap platform. *Use case: Capturing feedback, prioritizing features, sharing public roadmaps and changelogs with users.*
+- [Clean Notes](https://cleannotes.app/en/ai/chatgpt) - Kanban board and project notes for small teams. *Use case: Ask what's overdue, turn meeting notes into assigned tasks, and record decisions as project notes without leaving the chat.*
 - [ClickUp](https://clickup.com) - Automate projects, docs, reports. *Use case: All-in-one project management.*
 - [Concept Workspace](https://chatgpt.com/apps/concept-workspace/asdk_app_6a12344900f48191bfc5294f7e5792d6) - Shared team workspace and context. *Use case: Give the assistant your team's shared context and tools to coordinate work.*
 - [Constructable](https://chatgpt.com/apps/constructable/asdk_app_6a10b761b5c081919958e281f32ff7e9) - Construction project management. *Use case: Track construction project tasks, documents, and schedules.*
