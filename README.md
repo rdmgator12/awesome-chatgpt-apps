@@ -303,6 +303,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Namify](https://chatgpt.com/apps/namify/asdk_app_6a0346f97e5881919b8b5f87513cf533) - Generate business names and domains. *Use case: Turn a business idea into available brand names and matching domains.*
 - [PageShare](https://chatgpt.com/apps/pageshare/asdk_app_6a13a2500194819184429920c9b66c41) - Share and protect generated HTML. *Use case: Publish and password-protect an AI-generated HTML page to share.*
 - [Pixelesq](https://chatgpt.com/apps/pixelesq) - Website builder and manager. *Use case: Build, edit, and manage marketing or portfolio sites.*
+- [Sitelas](https://chatgpt.com/plugins/plugin_asdk_app_6a7a0b3d955881919a5e50754eff56fb) - Build and run your website. *Use case: Describe your business, get a designed site from a template with a preview link, publish when you approve, then edit pages and read contact-form messages from the same chat.*
 - [Sticklight](https://sticklight.com) - Create apps and websites. *Use case: AI-assisted no-code app and site building.*
 - [VIXNODE](https://chatgpt.com/apps/vixnode/asdk_app_69b4222b08148191a1473ac4c9170ad9) - Build websites with AI. *Use case: Generate and publish a website by describing what you want.*
 - [Webflow](https://chatgpt.com/apps/webflow/asdk_app_6a0783a98c4c8191841404d786d4a4b9) - Manage Webflow sites. *Use case: Update and manage your Webflow site content and pages.*
