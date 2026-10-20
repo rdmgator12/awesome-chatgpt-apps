@@ -1352,6 +1352,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [MYCOlive](https://chatgpt.com/apps/mycolive) - Home rental marketplace. *Use case: Search rental listings and connect with landlords.*
 - [Nashville Real Estate AI](https://chatgpt.com/apps/nashville-real-estate-ai) - Nashville-area real estate assistant. *Use case: Help Nashville agents pull listings, comps, and client follow-ups faster.*
 - [Neighbor](https://www.neighbor.com) - Peer-to-peer storage and parking marketplace. *Use case: Rent out unused garage, driveway, or storage space.*
+- [Pillr](https://chatgpt.com/plugins/plugin_asdk_app_6aafd241175c819186db1fe910bdc783) - French property data from public sources. *Use case: Get the price per m², rental market summary and planning-permission formality for any French municipality, with the source and date of each figure.*
 - [ProEigentum Immobilien](https://chatgpt.com/apps/proeigentum-immobilien) - Munich real estate brokerage. *Use case: Browsing residential and commercial property listings from a Munich-area broker.*
 - [Propalt](https://chatgpt.com/apps/propalt/asdk_app_69e5be7461d88191814dabaea57e77a1) - UK property data and insights. *Use case: Look up property data and market insights for a UK address.*
 - [Public Storage](https://www.publicstorage.com) - Find self-storage space units. *Use case: Find and rent self-storage units across the US.*
