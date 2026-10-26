@@ -192,6 +192,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Windsor.ai](https://chatgpt.com/apps/windsor-ai) - Multi-source marketing data connector. *Use case: Connect 330+ data sources into a unified marketing analytics view.*
 - [WitCloud](https://chatgpt.com/apps/witcloud/asdk_app_6a202fec83d08191a190caf5d024e893) - Chat with your business data. *Use case: Ask questions about your business data in natural language.*
 - [Zite](https://chatgpt.com/apps/zite/asdk_app_6a0dfddea830819180d3eaf355793e42) - Manage and query Zite data. *Use case: Query and manage your Zite data in natural language.*
+- [Mode VC Radar MCP](https://modevc.com/api/mcp) - Read-only venture capital & AI market research MCP server (39 empirical AI charts, 3,650 VC firms, SEC Form D filings, and 18 founder financial calculators; free Streamable HTTP at https://modevc.com/api/mcp).
 
 ## Audio and Music
 
