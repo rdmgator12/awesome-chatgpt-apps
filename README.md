@@ -169,6 +169,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Particl Market Research](https://particl.com) - E-commerce competitor intelligence. *Use case: Pull DTC sales velocity, promotions, and assortment data on retail competitors.*
 - [Pattern Intelligence](https://pattern.com) - Ecommerce AI. Always on. *Use case: AI-driven ecommerce intelligence and marketplace analytics.*
 - [Pendo](https://www.pendo.io) - For product analytics. *Use case: Product usage analytics, in-app guidance, and feature adoption.*
+- [Pineprompt](https://chatgpt.com/plugins/plugin_asdk_app_6ac8da1f881c8191b22246b7fdc9bb2e) - AI search visibility tracking. *Use case: Ask about your brand's visibility, share of voice, competitors and cited sources in AI answers from your Pineprompt tracking data.*
 - [Polar Analytics](https://chatgpt.com/apps/polar-analytics/asdk_app_69ecca09a4f88191804893914eb08f1a) - Ecommerce analytics. *Use case: Connect your store data and review sales and marketing metrics.*
 - [Porter Metrics](https://chatgpt.com/apps/porter-metrics/asdk_app_6a10afd73e7c81919bf3abc516520edc) - Ad and sales data reporting. *Use case: Pull ad performance and sales figures into a quick report.*
 - [PostHog](https://chatgpt.com/apps/posthog/asdk_app_699caef2d680819188727b0ddbb349dd) - Product analytics. *Use case: Query product usage and funnel metrics for your app.*
