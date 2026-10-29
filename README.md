@@ -1791,6 +1791,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Homey](https://chatgpt.com/apps/homey/asdk_app_6946bbc90ca4819188f817f992348b98) - Smart home automation. *Use case: Control devices and automate routines across your smart home.*
 - [Interview Feedback Extractor](https://chatgpt.com/apps/interview-feedback-extractor/asdk_app_6a1fdd66c9fc81919bf49f27278aa5f6) - Extract structured fields from interview feedback. *Use case: Pull structured fields out of raw interview feedback notes.*
 - [Invoice Field Extractor](https://chatgpt.com/apps/invoice-field-extractor/asdk_app_6a1d0567a9cc8191b023eb9a9ff1a81a) - Extract structured fields from invoices. *Use case: Pull line items, totals, and dates out of an invoice into structured fields.*
+- [Just Domain](https://chatgpt.com/plugins/just-domain) - Check a domain name, both prices and whether it can transfer in. You register it on justdomain.ai. *Use case: I'm starting a business. Find me a domain name that's available.*
 - [Key-Value Pair Extractor](https://chatgpt.com/apps/key-value-pair-extractor/asdk_app_6a113c98a1048191bef4a057ea726ab7) - Extract key-value pairs from text. *Use case: Pull structured key-value pairs out of unstructured text or documents.*
 - [Ladder Pick](https://chatgpt.com/apps/ladder-pick) - Decision-making with a ladder of options. *Use case: Letting a structured ladder make decisions across choices.*
 - [Maersk](https://www.maersk.com) - Container shipment tracking. *Use case: Track Maersk containers and shipments by booking number.*
