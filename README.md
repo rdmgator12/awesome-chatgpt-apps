@@ -887,6 +887,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Pacing: Run Coach & Tracker](https://chatgpt.com/apps/pacing-run-coach-tracker/asdk_app_6a1c40469b288191949dd4cbd593062f) - Running coach and workout tracker. *Use case: Generate a running workout plan and track runs on a phone.*
 - [Parenting Hub](https://chatgpt.com/apps/parenting-hub) - Baby food and care answers. *Use case: Get research-backed answers to parenting and infant care questions.*
 - [Pearl Pet Care](https://chatgpt.com/apps/pearl-pet-care) - Vet-verified pet answers. *Use case: Get veterinarian-verified answers to pet health questions.*
+- [Pelaris](https://chatgpt.com/apps/pelaris/asdk_app_69c1bd716c0481919770261d08d8d610) - AI fitness coach with adaptive training plans. *Use case: Check today's session, log a workout or adjust your training week from the chat.*
 - [Peloton](https://chatgpt.com/apps/peloton/connector_68f1abff1b688191b9309a31c9b4a713) - Discover Peloton workouts. *Use case: Find Peloton classes and workouts that match your goals.*
 - [Pregnancy Progress](https://chatgpt.com/apps/pregnancy-progress) - Pregnancy week-by-week tracker. *Use case: See fetal development milestones and weekly updates.*
 - [Private MD Labs](https://chatgpt.com/apps/private-md-labs) - Direct-to-consumer lab testing. *Use case: Order and interpret blood and biomarker tests on your own.*
