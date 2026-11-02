@@ -665,6 +665,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Aleph](https://www.getaleph.com) - AI-native FP&A platform with 150+ ERP/HRIS/CRM connectors. *Use case: Financial reporting, collaborative budgeting, modeling and forecasting with bi-directional Excel/Sheets sync.*
 - [Alpaca](https://alpaca.markets) - Developer-first API for stock, options, and crypto trading. *Use case: Algorithmic trading, multi-leg options strategies, embedded investing for fintech apps.*
 - [AlphaStocks](https://chatgpt.com/apps/alphastocks/asdk_app_69bac901b6208191a1127687846b56d5) - Stock analysis and earnings research. *Use case: Analyze a stock's fundamentals and review its latest earnings.*
+- [AlphaYou: Smart Money Intel](https://chatgpt.com/plugins/plugin_asdk_app_6aca22e01fd081918dde85b14c78f16d) - Congress, insider, 13F and Hyperliquid trader research with source links. *Use case: See who is buying or selling a US stock, with the filing date and link for each trade.*
 - [AmazingPensions](https://chatgpt.com/apps/amazingpensions) - Pension projection calculator. *Use case: Estimating retirement savings and pension growth.*
 - [Autumn](https://useautumn.com) - Connecting ChatGPT to Autumn. *Use case: SaaS billing and subscription management platform.*
 - [Bankrate](https://www.bankrate.com) - Browse savings products. *Use case: Comparing savings, CD, and lending products.*
