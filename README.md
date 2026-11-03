@@ -1466,6 +1466,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Rawan](https://chatgpt.com/apps/rawan/asdk_app_6a054273c5c88191904106d9ecf21469) - Fashion and apparel shopping. *Use case: Browse fashion and apparel items to shop.*
 - [Redo](https://chatgpt.com/apps/redo) - Returns and exchanges manager. *Use case: Help shoppers process returns and exchanges across retailers.*
 - [Salt Gypsy](https://chatgpt.com/apps/salt-gypsy/asdk_app_6a056e1b812881918acd406aca7d6948) - Women's surfwear and surfboards. *Use case: Browse women's surf apparel and boards and pick items to buy.*
+- [Scento Perfume Compendium](https://chatgpt.com/plugins/plugin_asdk_app_6ad81d1f36a08191bd59566d2b35ea34) - Free perfume knowledge app. *Use case: Look up 1,600+ designer and niche perfumes, notes and fragrance families, with every answer linked to scento.com.*
 - [SEPHORA](https://www.sephora.com) - Beauty retailer. *Use case: Shop makeup, skincare, fragrance, and hair products.*
 - [Share](https://chatgpt.com/apps/share) - Snack and personal-care browsing. *Use case: Discover new snacks and personal-care products by category.*
 - [Shop](https://shop.app) - All your favorite brands. *Use case: Shopify-powered product discovery and tracking.*
