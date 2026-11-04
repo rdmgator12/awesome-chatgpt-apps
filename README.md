@@ -1531,6 +1531,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Insight Timer](https://insighttimer.com) - Meditation and sleep library. *Use case: Guided meditations and sleep stories.*
 - [Journaling with Medome](https://chatgpt.com/apps/journaling-with-medome/asdk_app_6a3316f2001881919b8525d622428229) - Guided daily journaling. *Use case: Build a daily journaling habit with guided prompts.*
 - [K-Fortune (사주/Saju)](https://chatgpt.com/apps/k-fortune-saju/asdk_app_69b0d7fbc9948191af67185d5926a168) - Saju-based self-reflection readings. *Use case: Get a Saju (Korean astrology) reading for personal self-reflection.*
+- [Ladder by Aizhan Li](https://chatgpt.com/plugins/plugin_asdk_app_6ada41b9737081919d0b0cd3b582b3c4) - Goal self-check by the Ladder method in Kazakh, Russian and English. *Use case: Name a goal, where you are now and what stands between, and see which steps hold you back.*
 - [Miracle Of Mind](https://miracleofmind.org) - Sadhguru meditation app. *Use case: Practice a daily 7-minute guided meditation and access wisdom prompts.*
 - [quran.ai](https://chatgpt.com/apps/quran-ai) - Grounded Quran study companion. *Use case: Explore verses, tafsir, and themes with sourced commentary.*
 - [Selah - Bible stories](https://chatgpt.com/apps/selah-bible-stories) - Bible meditation and sleep stories. *Use case: Listen to scripture-based bedtime and meditation audio.*
