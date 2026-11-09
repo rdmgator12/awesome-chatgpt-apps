@@ -1140,6 +1140,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Pet Project Co-Founder AI](https://chatgpt.com/apps/pet-project-co-founder-ai) - Side-project idea validation. *Use case: Validate startup ideas with real market and audience data.*
 - [Planable](https://chatgpt.com/apps/planable/asdk_app_6a1574e90fc081918d40eca0fac88821) - Plan and schedule social media posts. *Use case: Draft and schedule a week of social posts for client approval.*
 - [PSCopywriting](https://chatgpt.com/apps/pscopywriting) - Long-form copywriting assistant. *Use case: Turn rough notes into clean marketing copy and landing pages.*
+- [Puley](https://puley.com) - Live public web data for ChatGPT, from local business leads to competitors' live ads. *Use case: Find local businesses with phone numbers and websites, or see a competitor's live Meta and Google ads.*
 - [Ranked AI](https://ranked.ai) - Manage your SEO and PPC. *Use case: AI-driven SEO and paid search management.*
 - [Rapid Wombat](https://chatgpt.com/apps/rapid-wombat/asdk_app_6a22e8488f9c81919a9dce090d6614cb) - SEO project overview. *Use case: Review the status and metrics of your SEO project.*
 - [SE Ranking](https://chatgpt.com/apps/se-ranking/asdk_app_6a0b262d5c0c8191953dd94ba05412e2) - SEO data and rank tracking. *Use case: Track keyword rankings and pull SEO data for a website you manage.*
