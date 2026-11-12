@@ -867,6 +867,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Acal Calorie Tracker](https://chatgpt.com/apps/acal-calorie-tracker/asdk_app_69a7ed1b9eb4819180bc5720d7fb3aec) - Count and track daily calories. *Use case: Log meals and track your daily calorie intake.*
 - [Achieve Harmony](https://chatgpt.com/apps/achieve-harmony) - Guided breathing widget. *Use case: Paced-breathing sessions for calming and focus.*
 - [AI Endurance](https://chatgpt.com/apps/ai-endurance/asdk_app_69456fbb59d081918bcb148a12380f92) - AI training plans for running, cycling, and triathlon. *Use case: Generate a personalized endurance training plan for your next race.*
+- [AIm Workout Journal](https://chatgpt.com/plugins/plugin_asdk_app_6ad644464c18819189242a20ca18f1c5) - Workout journal ChatGPT writes to. *Use case: Get a program, log workouts in your own words and see your progress.*
 - [BODi](https://www.bodi.com) - Find your best workout plan. *Use case: Workout plan and fitness program discovery.*
 - [Caliber](https://caliberstrong.com) - Analyze your fitness data. *Use case: AI-driven strength training plans and fitness analytics.*
 - [Calorie Tracker](https://chatgpt.com/apps/calorie-tracker) - Track food and calories in chat. *Use case: Logging meals and monitoring daily calorie intake.*
