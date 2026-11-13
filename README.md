@@ -329,6 +329,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [mydeetz](https://chatgpt.com/apps/mydeetz) - Digital contact card sharing. *Use case: Share your contact info with a tap or QR code at events.*
 - [Nitrosend - AI Native Email](https://chatgpt.com/apps/nitrosend-ai-native-email/asdk_app_69c236abbea481918d9180a100abd6b0) - Fast email client for builders. *Use case: Draft and send email quickly from an AI-native inbox.*
 - [Opera Browser Connector](https://www.opera.com) - Opera browser integration. *Use case: Drive tabs, history, and bookmarks in the Opera browser from chat.*
+- [OsmO Phone Calls](https://chatgpt.com/plugins/plugin_asdk_app_6ad0ed3277688191b90bd9dafe5d6cd9) - Make real phone calls for you. *Use case: Ask ChatGPT to call a shop, clinic or helpline and get the answer back with a summary.*
 - [Primitive](https://chatgpt.com/apps/primitive/asdk_app_6a25e1d409008191a30d80366aaad5e5) - Email for AI agents. *Use case: Give an AI agent an email inbox to send and receive messages.*
 - [Send Postcard](https://chatgpt.com/apps/send-postcard/asdk_app_6a313a923fc4819181da310cc03c4166) - Design and mail physical postcards. *Use case: Design a postcard, add a message, and have it printed and mailed to a recipient.*
 - [Slack](https://slack.com) - Send messages and fetch data. *Use case: Channel and DM messaging, message search across workspaces.*
