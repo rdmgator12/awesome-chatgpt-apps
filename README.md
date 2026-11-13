@@ -1828,6 +1828,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [HeyGen](https://www.heygen.com) - Create videos from text. *Use case: AI avatar video generation from script.*
 - [invideo](https://invideo.io) - Create videos of any length. *Use case: AI video generation and editing.*
 - [Jam](https://jam.dev) - Screen record with context. *Use case: Bug-report screen recording with full debug context.*
+- [Magic Hour AI](https://chatgpt.com/plugins/plugin_asdk_app_6abd6b5b6494819188475d7f1ff8204c) - Create and edit videos in ChatGPT. *Use case: Turn a product photo into a short animated clip.*
 - [Martini](https://chatgpt.com/apps/martini/asdk_app_6a1f03a5003481919a9dc301fed29ac4) - Collaborative filmmaking. *Use case: Collaborate on film projects and production workflows.*
 - [Runway](https://chatgpt.com/apps/runway/asdk_app_6a05e3b201788191be12b590b43e6ce3) - AI video generation. *Use case: Generate short video clips from a text prompt or reference image for a creative project.*
 - [TalkGen](https://chatgpt.com/apps/talkgen) - AI talking avatar generator. *Use case: Create avatar-narrated videos from a script.*
