@@ -320,6 +320,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [Fireflies](https://fireflies.ai) - Meeting transcription and search. *Use case: Searching across meeting transcripts, extracting decisions and action items, AI-generated summaries.*
 - [Fyxer](https://fyxer.com) - Write emails in your voice. *Use case: AI email assistant matching personal tone.*
 - [Hostinger Mail](https://chatgpt.com/apps/hostinger-mail/asdk_app_6a323a8a890c819190480c9044395170) - Hostinger email service. *Use case: Read and manage your Hostinger email inbox from ChatGPT.*
+- [JuzPost](https://chatgpt.com/plugins/plugin_asdk_app_6ac35f5e673c8191837b3d97fe84c761) - Schedule and publish social media posts to 11 networks. *Use case: Draft, schedule and review a social media queue from a chat, with approval before anything is scheduled, published or deleted.*
 - [Klaxoon](https://klaxoon.com) - Read, summarize, and update collaboration whiteboards. *Use case: Preparing workshops and turning board content into structured tasks and summaries.*
 - [Krisp](https://krisp.ai) - Add meeting context to chats. *Use case: Noise-cancelled meeting recording and context retrieval inside chat.*
 - [L Message](https://chatgpt.com/apps/l-message) - Search saved LINE message data and conversations. *Use case: Search LINE message archives and customer conversation history saved via L Message (LMe), the Japanese SMB CRM.*
