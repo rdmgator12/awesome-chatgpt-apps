@@ -166,6 +166,7 @@ This list is maintained weekly. To contribute, see [CONTRIBUTING.md](CONTRIBUTIN
 - [MotherDuck](https://motherduck.com) - Get answers from your data. *Use case: Serverless DuckDB queries for fast analytical workloads.*
 - [MSCI](https://www.msci.com) - Investment data and analytics. *Use case: Pull index and ESG data for institutional portfolio research.*
 - [Omni Analytics](https://chatgpt.com/apps/omni-analytics) - Data answers from your sources. *Use case: Ask trusted, source-linked questions across BI tools and warehouses.*
+- [OneLence](https://chatgpt.com/plugins/plugin_asdk_app_6ac0255b4e008191a0f9dd968c1a0ff6) - Finds growth opportunities across paid, search, AI visibility and affiliates. *Use case: Ask where to focus next across paid, search, AI visibility and affiliate channels.*
 - [Particl Market Research](https://particl.com) - E-commerce competitor intelligence. *Use case: Pull DTC sales velocity, promotions, and assortment data on retail competitors.*
 - [Pattern Intelligence](https://pattern.com) - Ecommerce AI. Always on. *Use case: AI-driven ecommerce intelligence and marketplace analytics.*
 - [Pendo](https://www.pendo.io) - For product analytics. *Use case: Product usage analytics, in-app guidance, and feature adoption.*
