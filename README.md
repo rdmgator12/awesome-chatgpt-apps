@@ -883,6 +883,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [LiftTrack](https://chatgpt.com/apps/lifttrack) - Garmin-connected weightlifting tracker. *Use case: Log sets and reps from a watch into a unified strength training history.*
 - [Mental Health Tools](https://chatgpt.com/apps/mental-health-tools) - Learn mental health exercises. *Use case: Practice exercises and skills for mental wellness.*
 - [Motra](https://chatgpt.com/apps/motra) - AI personal trainer. *Use case: Generate workout plans and coaching tailored to your goals.*
+- [MoveMate: Gym Workout Tracker](https://chatgpt.com/plugins/plugin_asdk_app_6a7b250ad83c8191a519b763350af4e9) - Plan, log and analyze gym workouts from your own training history. *Use case: Ask about your PRs and progress, then schedule your next session into the MoveMate iOS/Android app.*
 - [MyFitnessPal](https://www.myfitnesspal.com) - Nutrition tracking and meal planning. *Use case: Generate meal plans, recipes, and personalized nutrition guidance.*
 - [Pacing: Run Coach & Tracker](https://chatgpt.com/apps/pacing-run-coach-tracker/asdk_app_6a1c40469b288191949dd4cbd593062f) - Running coach and workout tracker. *Use case: Generate a running workout plan and track runs on a phone.*
 - [Parenting Hub](https://chatgpt.com/apps/parenting-hub) - Baby food and care answers. *Use case: Get research-backed answers to parenting and infant care questions.*
