@@ -1145,6 +1145,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [SE Ranking](https://chatgpt.com/apps/se-ranking/asdk_app_6a0b262d5c0c8191953dd94ba05412e2) - SEO data and rank tracking. *Use case: Track keyword rankings and pull SEO data for a website you manage.*
 - [Semrush](https://www.semrush.com) - Research keywords and traffic. *Use case: Keyword research, competitor traffic, and SEO.*
 - [seoClarity ArcAI](https://chatgpt.com/apps/seoclarity-arcai/asdk_app_69e0285a0acc8191a0164999249c22a9) - AI search visibility and insights. *Use case: Check how your brand appears in AI search results and get SEO recommendations.*
+- [seodata](https://chatgpt.com/plugins/plugin_asdk_app_6adf2bf2c7248191b7efb16430d86cf4) - Keyword search volume, CPC and competition for 50+ countries. *Use case: Check how many people search for an idea or product before building or writing about it.*
 - [Sequel.io](https://chatgpt.com/apps/sequel-io) - Webinar repurposing tool. *Use case: Turn webinar recordings into clips, posts, and on-demand content.*
 - [Serpstat](https://serpstat.com) - SEO data and keyword research. *Use case: SEO and keyword research alternative.*
 - [ShareThis AI](https://sharethis.com) - Manage ShareThis sharing widgets and reporting. *Use case: Manage your ShareThis account.*
