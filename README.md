@@ -1820,6 +1820,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 
 ## Video
 
+- [Aisma](https://chatgpt.com/plugins/plugin_asdk_app_6af464388c4881919dab901a9adfd4d9) - Edit videos you already shot by describing the change. *Use case: Start a prompt with "Aisma", attach a clip and ask to change an outfit, replace a background or remove an object.*
 - [Arcade](https://chatgpt.com/apps/arcade) - Generate polished product walkthrough videos from prompts. *Use case: Create polished product videos.*
 - [Bitmovin](https://chatgpt.com/apps/bitmovin/asdk_app_69ea134ec95081919ca504910c93915e) - Video encoding and streaming API tools. *Use case: Run Bitmovin encoding jobs and manage video streams through the API.*
 - [Descript](https://chatgpt.com/apps/descript/asdk_app_69f0dc45f6048191876c14c1016fe778) - Chat-based video editing. *Use case: Edit video and audio by describing the changes in chat.*
