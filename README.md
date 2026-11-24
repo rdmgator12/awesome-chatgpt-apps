@@ -737,6 +737,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [OakbrookOne](https://chatgpt.com/apps/oakbrookone) - Debt consolidation explorer. *Use case: Compare consolidation loan options and payoff strategies.*
 - [Obolus](https://chatgpt.com/apps/obolus) - Cross-country net-income and tax comparison. *Use case: Calculating take-home pay from gross salary and comparing tax burdens across countries.*
 - [Octus](https://chatgpt.com/apps/octus/asdk_app_6a3457aed49c8191b26c94152ad21977) - Credit data and intelligence. *Use case: Research credit markets and distressed-debt intelligence.*
+- [OffDeal](https://chatgpt.com/apps/offdeal/asdk_app_6aff68f968808191a047e01d21a5fd3d) - Business valuation and sale planning for owners. *Use case: Estimate what a US small business could sell for, see likely buyers and industry multiples.*
 - [OKX](https://www.okx.com) - Crypto exchange and market data. *Use case: Pull crypto prices, order book depth, and market data for trading research.*
 - [Options Analysis Suite](https://chatgpt.com/apps/options-analysis-suite/asdk_app_69eddf27f0f08191a1ccec9dc425df03) - Options analytics. *Use case: Analyze options strategies, Greeks, and risk for a position.*
 - [OptionsCalc](https://chatgpt.com/apps/optionscalc) - Options strategy builder. *Use case: Construct multi-leg option strategies and visualize payoff diagrams.*
