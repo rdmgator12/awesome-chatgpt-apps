@@ -1691,6 +1691,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [LDN Travel](https://chatgpt.com/apps/ldn-travel) - London travel information. *Use case: Getting transport, attraction, and travel info for London visits.*
 - [Lume](https://chatgpt.com/apps/lume) - Campinas city guide. *Use case: Find places, food, and activities while visiting Campinas, Brazil.*
 - [MakeMyTrip](https://www.makemytrip.com) - Find flights, hotels, and cabs. *Use case: Indian travel booking.*
+- [Mappu](https://www.mappu.ai) - Plan trips day by day on a map and find free audio guides and self-guided walks. *Use case: Saving a three-day city itinerary to an editable map, finding the free audio guide for a landmark or a walk around it.*
 - [McDreams Hotels](https://chatgpt.com/apps/mcdreams-hotels/asdk_app_698cab1901ec8191b56825a9e3bb69eb) - Find and book hotel rooms. *Use case: Search availability and book hotel rooms.*
 - [MeranO](https://chatgpt.com/apps/merano) - South Tyrol travel guide for Merano and surroundings. *Use case: Plan hikes, hotels, food, and events around Merano, Italy.*
 - [MilanMetroStatus.it](https://chatgpt.com/apps/milanmetrostatus-it/asdk_app_69f3b360028081918c9c5be3b969eff5) - Real-time Milan metro updates. *Use case: Check real-time status and disruptions on the Milan metro.*
