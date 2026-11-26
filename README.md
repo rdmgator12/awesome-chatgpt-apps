@@ -1148,6 +1148,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Sequel.io](https://chatgpt.com/apps/sequel-io) - Webinar repurposing tool. *Use case: Turn webinar recordings into clips, posts, and on-demand content.*
 - [Serpstat](https://serpstat.com) - SEO data and keyword research. *Use case: SEO and keyword research alternative.*
 - [ShareThis AI](https://sharethis.com) - Manage ShareThis sharing widgets and reporting. *Use case: Manage your ShareThis account.*
+- [Sitewalk - Technical SEO Audit & Monitoring in ChatGPT](https://chatgpt.com/plugins/plugin_asdk_app_6ac47963cb448191a5b1757e0682bd6a) - Technical SEO audit and monitoring. *Use case: Audit a client site, see what to fix first, and get an email when a later check finds something new.*
 - [SmartCustomer](https://chatgpt.com/apps/smartcustomer) - Business reviews and ratings lookup. *Use case: Surface customer-feedback signals on local businesses.*
 - [SmartMarketingSuites](https://chatgpt.com/apps/smartmarketingsuites/asdk_app_6a07e1cb5ebc8191a74424cb58eee03a) - Diagnose revenue leaks. *Use case: Analyze your marketing funnel to find where revenue is leaking and fix gaps.*
 - [SocialHub](https://chatgpt.com/apps/socialhub/asdk_app_69fcbb4ebdfc8191b623b0885d5fa7fd) - Social media management. *Use case: Manage social media posts and community interactions through SocialHub.*
