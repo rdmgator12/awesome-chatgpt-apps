@@ -1115,6 +1115,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Helium 10](https://chatgpt.com/apps/helium-10/asdk_app_69b9f38bfa248191877ad584f5608b92) - Amazon seller research tools. *Use case: Research products and keywords to optimize your Amazon listings.*
 - [Hera Digital](https://chatgpt.com/apps/hera-digital) - AI sales system creation. *Use case: Designing and deploying AI-driven sales systems and workflows.*
 - [HubProsper](https://chatgpt.com/apps/hubprosper) - HubSpot optimization. *Use case: Auditing and improving HubSpot setup, workflows, and reporting.*
+- [IntelCue](https://chatgpt.com/plugins/plugin_asdk_app_6a6dc91907c08191b8634b76a0f844b1) - Competitive and market intelligence from competitor newsletters, website changes, ads and new subdomains. *Use case: Ask what changed with your competitors this week and get sourced answers to plan your next post.*
 - [Intuit Mailchimp](https://mailchimp.com) - Create marketing campaigns. *Use case: Email and SMS marketing campaign creation.*
 - [Keyword.com](https://chatgpt.com/apps/keyword-com/asdk_app_6a0733f6c6b08191a7b2a5bf2d930999) - Track SEO and AEO visibility. *Use case: Monitor your keyword rankings and search visibility over time.*
 - [Klaviyo](https://www.klaviyo.com) - Get insights on your marketing. *Use case: Ecommerce email and SMS marketing analytics.*
