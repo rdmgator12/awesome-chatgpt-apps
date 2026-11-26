@@ -504,6 +504,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Remote Desktop Commander](https://chatgpt.com/apps/remote-desktop-commander/asdk_app_6a057d268ebc81919918d37eec718425) - Remote build and automation. *Use case: Control a remote machine to build and automate tasks from chat.*
 - [Replay.io](https://replay.io) - Time-travel debugging for web apps. *Use case: Step through a recorded browser session and ask ChatGPT to investigate a bug across the full execution trace.*
 - [Replit](https://chatgpt.com/apps/replit/asdk_app_6934801c799081918131791660f02890) - Build apps from ideas. *Use case: Turn an app idea into working code you can run and deploy.*
+- [Shellway: Remote PC & Terminal](https://getshellway.com) - Files and terminal on your own computer. *Use case: Ask ChatGPT to run commands, read logs and edit files on your own Windows, Mac or Linux computer or server.*
 - [ShipStatic](https://chatgpt.com/apps/shipstatic/asdk_app_6a06f62b2f50819181136d58192063d1) - Deploy static websites instantly. *Use case: Deploy a static website and get a live URL from chat.*
 - [Sleuth Skills](https://sleuth.io) - Use your custom skills in chat. *Use case: Invoke custom skills and DevOps automations from chat.*
 - [TRIGGERcmd](https://chatgpt.com/apps/triggercmd) - Remote command execution. *Use case: Run preconfigured commands on your computers from anywhere.*
