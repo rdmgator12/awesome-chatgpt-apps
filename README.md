@@ -837,6 +837,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 - [Formester](https://chatgpt.com/apps/formester) - Form submission analysis. *Use case: Analyzing form responses and extracting insights from collected submissions.*
 - [Formfacade](https://chatgpt.com/apps/formfacade/asdk_app_6951364345348191b2cbf9ee0449650e) - Build lead-capture forms. *Use case: Create a lead-magnet form and embed it on your site to collect signups.*
 - [FormHug](https://chatgpt.com/apps/formhug/asdk_app_6a0d57fd4ad0819185fdac9300e2beef) - Create forms, surveys, and quizzes. *Use case: Generate a survey or quiz and share it to collect responses.*
+- [Frank AI Researcher](https://chatgpt.com/plugins/plugin_asdk_app_6ad8ab4844a881919c79bb0864ffe168) - AI-moderated voice interviews with your own customers. *Use case: Run churn, onboarding or pricing interviews in 50+ languages and read transcripts and themes in ChatGPT.*
 - [Jotform](https://www.jotform.com) - Build forms, analyze responses. *Use case: Form creation, payment forms, and response workflows.*
 - [Neartail](https://chatgpt.com/apps/neartail) - Food order form builder. *Use case: Create order forms for restaurants, caterers, and pop-up vendors.*
 - [Pheedback](https://chatgpt.com/apps/pheedback/asdk_app_6a0c915e1fd0819189731ca484a78ea9) - Create and manage feedback forms. *Use case: Build a customer feedback form and review the responses that come in.*
