@@ -1518,6 +1518,7 @@ OpenAI Connectors are first-party data integrations that let ChatGPT access serv
 ## Spirituality and Wellness
 
 - [12andus Astrology](https://12andus.com) - Personalized birth charts, forecasts, and compatibility readings. *Use case: AI-generated natal-chart analysis, daily transits, synastry and composite relationship dynamics.*
+- [2hives](https://chatgpt.com/plugins/plugin_asdk_app_6af51c5345d4819188dd700b1ac138c7) - Guided sleep, relaxation, breathing and focus audio in your language. *Use case: Ask for a wind-down, a short calm break or a breathing session and a guided audio session plays in chat.*
 - [A-Z Holy Bible](https://chatgpt.com/apps/a-z-holy-bible/asdk_app_69985bb469908191a8abda024bb692cb) - Study Scripture by chapter and verse. *Use case: Look up a Bible passage by chapter and verse and explore its meaning.*
 - [All My Affirmations](https://chatgpt.com/apps/all-my-affirmations) - Personal affirmations widget. *Use case: Daily affirmations and mindset prompts for thriving.*
 - [All your Horoscopes](https://chatgpt.com/apps/all-your-horoscopes) - Daily horoscope and star signs. *Use case: Reading daily horoscopes for any zodiac sign.*
